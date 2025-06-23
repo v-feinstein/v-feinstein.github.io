@@ -497,10 +497,10 @@ ul.list-style-none {
   border-radius: 0;
 }
 .btn-template-main {
-  color: var(--primary-accent);
+  color: #000;
   /* background-color: #ffffff; */
-  background-color: #00ff00;
-  border-color: var(--primary-accent);
+  background-color: var(--primary-accent); /* vf - button on 404 page*/ 
+  border-color: #000;
 }
 .btn-template-main:hover,
 .btn-template-main:focus,
@@ -931,7 +931,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 /* universal box */
 .box {
-  background: #fff000;
+  /* background: #fff000; */
   margin: 0 0 30px;
   border: solid 1px #ccc;
   -webkit-box-sizing: border-box;
