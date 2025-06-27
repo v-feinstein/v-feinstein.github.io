@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="https://feingames.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Blue Moon Solitaire</title>
+      <link>https://feingames.com/blue-moon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://feingames.com/blue-moon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clock Solitaire</title>
+      <link>https://feingames.com/clock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://feingames.com/clock/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Crazy Quilt</title>
       <link>https://feingames.com/crazy_quilt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,9 +58,9 @@
     </item>
     <item>
       <title>Royal Parade</title>
-      <link>https://feingames.com/royal_parade/</link>
+      <link>https://feingames.com/royal-parade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://feingames.com/royal_parade/</guid>
+      <guid>https://feingames.com/royal-parade/</guid>
       <description></description>
     </item>
     <item>

@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://feingames.com/blue-moon/</loc>
+  </url><url>
     <loc>https://feingames.com/categories/</loc>
+  </url><url>
+    <loc>https://feingames.com/clock/</loc>
   </url><url>
     <loc>https://feingames.com/crazy_quilt/</loc>
   </url><url>
@@ -16,7 +20,7 @@
   </url><url>
     <loc>https://feingames.com/medici/</loc>
   </url><url>
-    <loc>https://feingames.com/royal_parade/</loc>
+    <loc>https://feingames.com/royal-parade/</loc>
   </url><url>
     <loc>https://feingames.com/sequence/</loc>
   </url><url>
