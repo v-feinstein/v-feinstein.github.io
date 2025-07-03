@@ -2,38 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://feingames.com/blue-moon/</loc>
+    <loc>http://localhost:1313/big-ben/</loc>
   </url><url>
-    <loc>https://feingames.com/categories/</loc>
+    <loc>http://localhost:1313/blue-moon/</loc>
   </url><url>
-    <loc>https://feingames.com/clock/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://feingames.com/crazy_quilt/</loc>
+    <loc>http://localhost:1313/clock/</loc>
   </url><url>
-    <loc>https://feingames.com/fm-100-hue/</loc>
+    <loc>http://localhost:1313/crazy-quilt/</loc>
   </url><url>
-    <loc>https://feingames.com/</loc>
+    <loc>http://localhost:1313/fm-100-hue/</loc>
   </url><url>
-    <loc>https://feingames.com/gofish/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://feingames.com/grandfathers-clock/</loc>
+    <loc>http://localhost:1313/go-fish/</loc>
   </url><url>
-    <loc>https://feingames.com/labyrinth/</loc>
+    <loc>http://localhost:1313/grandfathers-clock/</loc>
   </url><url>
-    <loc>https://feingames.com/medici/</loc>
+    <loc>http://localhost:1313/labyrinth/</loc>
   </url><url>
-    <loc>https://feingames.com/royal-parade/</loc>
+    <loc>http://localhost:1313/medici/</loc>
   </url><url>
-    <loc>https://feingames.com/sequence/</loc>
+    <loc>http://localhost:1313/royal-parade/</loc>
   </url><url>
-    <loc>https://feingames.com/shifting_tiles/</loc>
+    <loc>http://localhost:1313/sequence/</loc>
   </url><url>
-    <loc>https://feingames.com/sudoku/</loc>
+    <loc>http://localhost:1313/shifting-tiles/</loc>
   </url><url>
-    <loc>https://feingames.com/tags/</loc>
+    <loc>http://localhost:1313/sudoku/</loc>
   </url><url>
-    <loc>https://feingames.com/trash/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://feingames.com/flags/</loc>
+    <loc>http://localhost:1313/trash/</loc>
+  </url><url>
+    <loc>http://localhost:1313/flags/</loc>
   </url>
 </urlset>
