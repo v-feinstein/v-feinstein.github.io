@@ -2,40 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/big-ben/</loc>
+    <loc>https://feingames.com/big-ben/</loc>
   </url><url>
-    <loc>http://localhost:1313/blue-moon/</loc>
+    <loc>https://feingames.com/blue-moon/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://feingames.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/clock/</loc>
+    <loc>https://feingames.com/clock/</loc>
   </url><url>
-    <loc>http://localhost:1313/crazy-quilt/</loc>
+    <loc>https://feingames.com/crazy-quilt/</loc>
   </url><url>
-    <loc>http://localhost:1313/fm-100-hue/</loc>
+    <loc>https://feingames.com/fm-100-hue/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://feingames.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/go-fish/</loc>
+    <loc>https://feingames.com/go-fish/</loc>
   </url><url>
-    <loc>http://localhost:1313/grandfathers-clock/</loc>
+    <loc>https://feingames.com/grandfathers-clock/</loc>
   </url><url>
-    <loc>http://localhost:1313/labyrinth/</loc>
+    <loc>https://feingames.com/klondike-solitaire/</loc>
   </url><url>
-    <loc>http://localhost:1313/medici/</loc>
+    <loc>https://feingames.com/labyrinth/</loc>
   </url><url>
-    <loc>http://localhost:1313/royal-parade/</loc>
+    <loc>https://feingames.com/medici/</loc>
   </url><url>
-    <loc>http://localhost:1313/sequence/</loc>
+    <loc>https://feingames.com/mount-olympus/</loc>
   </url><url>
-    <loc>http://localhost:1313/shifting-tiles/</loc>
+    <loc>https://feingames.com/royal-parade/</loc>
   </url><url>
-    <loc>http://localhost:1313/sudoku/</loc>
+    <loc>https://feingames.com/russian-solitaire/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://feingames.com/sequence/</loc>
   </url><url>
-    <loc>http://localhost:1313/trash/</loc>
+    <loc>https://feingames.com/shifting-tiles/</loc>
   </url><url>
-    <loc>http://localhost:1313/flags/</loc>
+    <loc>https://feingames.com/sudoku/</loc>
+  </url><url>
+    <loc>https://feingames.com/tags/</loc>
+  </url><url>
+    <loc>https://feingames.com/trash/</loc>
+  </url><url>
+    <loc>https://feingames.com/flags/</loc>
+  </url><url>
+    <loc>https://feingames.com/yukon-solitaire/</loc>
   </url>
 </urlset>
