@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Monte Carlo Solitaire</title>
+<meta name="author" content="" />
+
+
+
+<meta name="keywords" content="FeinGames, solitaire, game, logic, strategy, classic, traditional, ad-free">
+
+
+<meta name="description" content="">
+
+<meta name="generator" content="Hugo 0.147.7">
+
+
+<link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v6.7.2/css/all.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+
+<link href="/css/animate.css" rel="stylesheet">
+
+
+
+  <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+
+
+
+<link href="/css/custom.css?1754444911" rel="stylesheet">
+
+
+
+  <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+
+
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+
+
+
+</head>
+
+<body>
+  <div id="all">
+    <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
+  <div class="navbar navbar-default yamm " role="navigation"
+    id="navbar">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand home" href="/">
+          
+          <div class="imageflex">
+            <img src="/img/logo.png" alt="Monte Carlo Solitaire logo" class="hidden-xs hidden-sm pull-left" />
+            <img src="/img/logo-small.png" alt="Monte Carlo Solitaire logo"
+              class="visible-xs visible-sm pull-left" />
+            <h2 class="imageflexcontent">FeinGames</h2>
+          </div>
+          
+          <span class="sr-only">Monte Carlo Solitaire - go to homepage</span>
+        </a>
+
+        <div class="navbar-buttons">
+          <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse"
+            data-target="#navigation">
+            <span class="sr-only">Toggle Navigation</span>
+            <i class="fas fa-align-justify"></i>
+          </button>
+        </div>
+      </div>
+      
+
+      <div class="navbar-collapse collapse" id="navigation">
+        <ul class="nav navbar-nav navbar-right">
+          
+
+          
+          
+          
+
+          
+
+          
+
+          
+
+          
+          <li class="dropdown ">
+            <a href="/">Home</a>
+          </li>
+          
+          
+          
+          
+
+          
+
+          
+
+          
+
+          
+          
+          
+          <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">Games <span class="caret"></span></a>
+            
+            <ul class="dropdown-menu">
+              
+              <li><a href="/sequence">Sequence</a></li>
+              
+              <li><a href="/sudoku">Sudoku</a></li>
+              
+              <li><a href="/shifting-tiles">Shifting Tiles</a></li>
+              
+              <li><a href="/labyrinth/">Labyrinth</a></li>
+              
+              <li><a href="/go-fish">Go Fish</a></li>
+              
+              <li><a href="/trash">Trash</a></li>
+              
+            </ul>
+            
+          </li>
+          
+          
+          
+          
+
+          
+
+          
+
+          
+
+          
+          
+          
+          <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">Solitaire <span class="caret"></span></a>
+            
+            <ul class="dropdown-menu">
+              
+              <li><a href="/all-solitaire">All Solitaire</a></li>
+              
+              <li><a href="/alaska-solitaire">Alaska</a></li>
+              
+              <li><a href="/bakers-dozen-solitaire">Baker&#39;s Dozen</a></li>
+              
+              <li><a href="/big-ben">Big Ben</a></li>
+              
+              <li><a href="/blue-moon">Blue Moon</a></li>
+              
+              <li><a href="/castles-solitaire">Castles in Spain</a></li>
+              
+              <li><a href="/citadel-solitaire">Citadel</a></li>
+              
+              <li><a href="/clock">Clock</a></li>
+              
+              <li><a href="/czarina-solitaire">Czarina</a></li>
+              
+              <li><a href="/grandfathers-clock">Grandfather&#39;s Clock</a></li>
+              
+              <li><a href="/crazy-quilt">Crazy Quilt</a></li>
+              
+              <li><a href="/klondike-solitaire">Klondike</a></li>
+              
+              <li><a href="/martha-solitaire">Martha</a></li>
+              
+              <li><a href="/medici">Medici</a></li>
+              
+              <li><a href="/montecarlo-solitaire">Monte Carlo</a></li>
+              
+              <li><a href="/mount-olympus">Mount Olympus</a></li>
+              
+              <li><a href="/osmosis-solitaire">Osmosis</a></li>
+              
+              <li><a href="/royal-parade">Royal Parade</a></li>
+              
+              <li><a href="/russian-solitaire">Russian</a></li>
+              
+              <li><a href="/spanish-patience-solitaire">Spanish Patience</a></li>
+              
+              <li><a href="/yukon-solitaire">Yukon</a></li>
+              
+            </ul>
+            
+          </li>
+          
+          
+          
+          
+
+          
+
+          
+
+          
+
+          
+          
+          
+          <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">Misc <span class="caret"></span></a>
+            
+            <ul class="dropdown-menu">
+              
+              <li><a href="/fm-100-hue">Color Vision Test</a></li>
+              
+              <li><a href="/flags">What&#39;s That Flag?</a></li>
+              
+            </ul>
+            
+          </li>
+          
+          
+        </ul>
+      </div>
+      
+
+      
+      
+    </div>
+  </div>
+</header>
+
+
+    
+    
+    
+
+    <div id="content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2">
+            <div class="image">
+              <img src="/img/montecarlo/icon.png" alt="" style="max-height:80px; margin-top: 10px;" />
+            </div>
+          </div>
+          <div class="col-md-2">
+            
+            <a href="https://apps.apple.com/us/app/montecarlo-solitaire-feingames/id6749117854" target="_blank" >
+              <div class="image">
+                <img src="/img/appstore_badge.png" alt="" style="max-height:40px; margin-top: 30px;" />
+              </div>
+            </a>
+            
+          </div>
+          <div class="col-md-4">
+            <div class="box-title">
+              <h2>Monte Carlo Solitaire</h2>
+            </div>
+          </div>
+        </div>
+        <br />
+        
+          
+          
+          
+          
+          
+          
+
+          
+
+          
+          
+          
+
+          
+          
+          <div class="row">
+            <div class="col-md-12" id="blog-listing-medium">
+              <section class="post">
+                <div class="row">
+                  <div class="col-md-5">
+                    <div class="image">
+                      <img src="/img/montecarlo/1.png" class="img-responsive" alt="" />
+                    </div>
+                  </div>
+                  <div class="col-md-7 my-li">
+                    <h3>Rules</h3>
+
+                    <p><p><strong>Monte Carlo Solitaire</strong> is played with one deck of 52 cards.</p>
+<p>Monte Carlo is a pair-matching solitaire game.</p>
+<p>The game is set up by laying out 25 cards so that they form a 5x5 grid. The rest of the pack is set aside as the stock.</p>
+<p>Cards that make up a pair (such as two Kings or two Sixes) are removed when they are immediately next to each other  horizontally, vertically, or diagonally. Once some or all such pairs have been removed, the cards are consolidated,  i.e. moving cards to the left as if towards the upper left corner to fill any gaps left behind by the discarded pairs.  New cards are then laid out from the stock to form a fresh layout of 25 cards.</p>
+<p>This process is repeated until it is no longer possible to remove pairs (e.g. in the finishing stages of the game  one might be stuck with &ldquo;4-6-4-6.&rdquo;). The game is out if all cards are successfully discarded.</p>
+<p>Although luck is a large part of Monte Carlo, strategy can sometimes play a role. For example, one could leave a pair alone  to be used to aid freeing a separated pair.</p>
+</p>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+
+
+        
+          
+          <div class="row">
+            <div class="col-md-12" id="blog-listing-medium">
+              <section class="post">
+                <div class="row">
+                  <div class="col-md-5">
+                    <div class="image">
+                      <img src="/img/montecarlo/2.png" class="img-responsive" alt="" />
+                    </div>
+                  </div>
+                  <div class="col-md-7 my-li">
+                    <h3>Menu</h3>
+
+                    <p><p>You can control the game through the menu with the following commands:</p>
+<ul>
+<li><strong>New Game</strong> - reshuffle the decks and start a new play.</li>
+<li><strong>Hint</strong> - provide an on-screen hint for all valid moves. The cards that can be discarded are outlined in green.</li>
+<li><strong>Explain</strong> - show and explain all possible moves.</li>
+<li><strong>Undo</strong> - undo, one at a time, your moves.</li>
+<li><strong>Settings</strong> - configure different options the way you like it.</li>
+<li><strong>Scoreboard</strong> - we record the number of times you have this solitaire converged.  You can get to the Game Center Leaderboard to compare your score to other players.</li>
+<li><strong>How To Play</strong> - see the documentation.</li>
+<li><strong>About</strong> - brief information about this app, including the links to our website and our Facebook page.</li>
+</ul>
+<p> </p>
+<h3 id="gestures">Gestures</h3>
+<p>You can control the game with the following gestures:</p>
+<ul>
+<li><strong>Tap</strong> a card on the table to discard it and the matching card if they are adjacent.</li>
+<li><strong>Drag</strong> a card onto its pair to discard them both.</li>
+<li><strong>Swipe left</strong> - undo your previous move.</li>
+<li><strong>Swipe right</strong> - show <strong>Hint</strong>.</li>
+<li><strong>Swipe down</strong> - show and explain all possible moves.</li>
+<li><strong>Swipe up</strong> - bring up the Settings view.</li>
+</ul>
+</p>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+
+
+        
+      </div>
+      
+
+      <div id="post-content">
+        
+      </div>
+    </div>
+  </div>
+  
+
+<div id="copyright">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p class="pull-left">Copyright (c) 2024 - 2025 FeinGames</p>
+        
+        </div>
+        
+      <div class="col-md-6">
+        <p class="pull-right">
+          
+          
+          
+          <a href="https://www.facebook.com/profile.php?id=61563624710165" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-facebook'></i></a>
+          
+          <a href="mailto:info@feingames.com" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope'></i></a>
+          
+          
+          
+
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+  </div>
+
+  
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+
+<script src="/js/front.js"></script>
+
+
+<script src="/js/owl.carousel.min.js"></script>
+
+
+</body>
+
+</html>
