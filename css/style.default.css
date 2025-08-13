@@ -15,7 +15,69 @@
   --link-hover-bg: #2c8494;
   /* --navbar-focus: #80cbd9; */
   --navbar-focus: #6d7792;
+
+  --col: 3; /* Let's use Hugo default :D */
+
 }
+/* vf - https://stackoverflow.com/questions/79725479/how-to-use-page-width-in-hugo-template/79732526?noredirect=1#comment140662708_79732526 */
+
+@media (max-width: 6000px) {
+  :root {
+    --col: 5;
+  }
+}
+
+@media (max-width: 1200px) {
+  :root {
+    --col: 4;
+  }
+}
+
+@media (max-width: 900px) {
+  :root {
+    --col: 3;
+  }
+}
+
+@media (max-width: 600px) {
+  :root {
+    --col: 2;
+  }
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(var(--col), 1fr);
+  gap: 2rem;
+}
+
+.feature-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.features-grid::before {
+  content: '';
+  /* the element size on the inline-axis (left-to-right in latin languages),
+     100% is relative to the <main> element, not the <h3>, as that's the first
+     element ancestor with a non-static position: */
+  inline-size: 100%;
+  /* sizing the element along the block-axis, and this is why the
+     grid-column-gap was also given this size: */
+  block-size: var(--grid-separator-height);
+  /* adjust to taste: */
+  background-color: #000;
+  /* to allow the pseudo-element to be sized in relation to the <main>, in terms
+     of percentage: */
+  position: absolute;
+  /* moving the element zero along the x-axis, and 100% of its own block-axis size
+     plus the size of the custom property (so that it occupies the grid-row-gap space,
+     and multiplying that by -1 to ensure that it moves vertically 'up' into that space
+     rather than further 'into' the <h3> element space: */
+  translate: 0 calc(-1 * (100% + var(--grid-padding-block-start)));
+}
+
+/* vf - end ^^^^ */
 
 /* vf - common background */
 body {
