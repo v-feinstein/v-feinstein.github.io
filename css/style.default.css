@@ -21,7 +21,19 @@
 }
 /* vf - https://stackoverflow.com/questions/79725479/how-to-use-page-width-in-hugo-template/79732526?noredirect=1#comment140662708_79732526 */
 
-@media (max-width: 6000px) {
+@media (max-width: 3000px) {
+  :root {
+    --col: 7;
+  }
+}
+
+@media (max-width: 2000px) {
+  :root {
+    --col: 6;
+  }
+}
+
+@media (max-width: 1500px) {
   :root {
     --col: 5;
   }
@@ -764,7 +776,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .box-simple {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 .box-simple .icon {
   color: var(--primary-accent);
