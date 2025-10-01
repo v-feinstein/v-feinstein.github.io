@@ -35,7 +35,7 @@
 
 
 
-<link href="/css/custom.css?1759256688" rel="stylesheet">
+<link href="/css/custom.css?1759350537" rel="stylesheet">
 
 
 
@@ -309,11 +309,45 @@
 <p>This game is set up for a single player against AI.</p>
 <p>The goal is to build a sequence of five chips in any straight line (vertical, horizontal or diagonal).  The four Jokers at the corners can be counted as a chip of any color.</p>
 <p>Each player is dealt seven cards. The move consist of selecting and discarding a card from your hand,  placing a chip on a matching card on the board, and getting a new card from the deck.</p>
+<p>You can either tap a card
+in your hand to discard it and then tap the board to place your chip, or simply tap the board and let the app
+figure out which card to discard.</p>
 <p>Jacks do not appear on the board. They have special roles:</p>
 <p>Jacks with two eyes visible (J♣ and J♦) are wild; they allow you to place your chip on any open card on the board.</p>
 <p>Jacks with one eye visible (J♠ and J♥) allow you to remove any of the opponent&rsquo;s chips from the board.</p>
 <p>If you have a card that has chips on both matching cards on the board, it is considered a <strong>Dead Card</strong>.  You may swap it for a new card on your turn by discarding it; then continue with your move.</p>
 </p>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+
+
+        
+          
+          <div class="row">
+            <div class="col-md-12" id="blog-listing-medium">
+              <section class="post">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="image">
+                      <img src="/img/sequence/seq-menu.png" class="img-responsive" onclick="window.open(this.src, '_self')" alt="" />
+                    </div>
+                  </div>
+                  <div class="col-md-6 my-li">
+                    <h3>Menu</h3>
+
+                    <p><p>You can control the game through the menu with the following commands:</p>
+<ul>
+<li><strong>New Game</strong> - reshuffle the decks and start a new play.</li>
+<li><strong>Hint</strong> - provide an on-screen hint for all valid moves. The cards on which you can place your chip on the board are outlined in green.  If you hold a dead card, it will be outlined in red.</li>
+<li><strong>Undo</strong> - if you discarded a wrong card, you can undo before you tapped the board; if you tapped the board,  you have 1 second (extendable to 3 seconds in Settings) to undo it, then a new card is dealt and the turn goes to AI.</li>
+<li><strong>Settings</strong> - configure different options the way you like it.</li>
+<li><strong>Scoreboard</strong> - see your score against AI.  You can get to the Game Center Leaderboard to compare your score to other players.</li>
+<li><strong>How To Play</strong> - see the documentation.</li>
+<li><strong>About</strong> - brief information about this app, including the links to our website and our Facebook page.</li>
+</ul></p>
                   </div>
                 </div>
               </section>
@@ -383,37 +417,6 @@
                 <div class="row">
                   <div class="col-md-6">
                     <div class="image">
-                      <img src="/img/sequence/seq-menu.png" class="img-responsive" onclick="window.open(this.src, '_self')" alt="" />
-                    </div>
-                  </div>
-                  <div class="col-md-6 my-li">
-                    <h3>Menu</h3>
-
-                    <p><p>You can control the game through the menu with the following commands:</p>
-<ul>
-<li><strong>New Game</strong> - reshuffle the decks and start a new play.</li>
-<li><strong>Hint</strong> - provide an on-screen hint for all valid moves. The cards on which you can place your chip on the board are outlined in green. If you hold a dead card, it will be outlined in red.</li>
-<li><strong>Undo</strong> - undo, one at a time, your moves.</li>
-<li><strong>Settings</strong> - configure different options the way you like it.</li>
-<li><strong>Scoreboard</strong> - see your score against AI.  You can get to the Game Center Leaderboard to compare your score to other players.</li>
-<li><strong>How To Play</strong> - see the documentation.</li>
-<li><strong>About</strong> - brief information about this app, including the links to our website and our Facebook page.</li>
-</ul></p>
-                  </div>
-                </div>
-              </section>
-            </div>
-          </div>
-
-
-        
-          
-          <div class="row">
-            <div class="col-md-12" id="blog-listing-medium">
-              <section class="post">
-                <div class="row">
-                  <div class="col-md-6">
-                    <div class="image">
                       <img src="/img/sequence/seq-settings.png" class="img-responsive" onclick="window.open(this.src, '_self')" alt="" />
                     </div>
                   </div>
@@ -422,18 +425,21 @@
 
                     <p><p>You can configure different options the way you like it:</p>
 <ul>
+<li><strong>Two sequences to win</strong> - require two completed sequences to win the game.</li>
+<li><strong>Long grace period for undo</strong> - extend the grace period to take your move back to 3 seconds.</li>
+<li><strong>Show smart hints</strong> - show smart hint panel instead of simple outline.</li>
 <li><strong>Sort cards in player&rsquo;s hand</strong> - re-sort cards in player&rsquo;s hand by suit, then by rank after new card is dealt.</li>
 <li><strong>Show errors</strong> - show an error message if you attempt an invalid move.</li>
-<li><strong>Use large cards</strong> - use large print cards, for the smaller screens.</li>
+<li><strong>Card size</strong> - select small, medium or large print cards.</li>
 </ul>
-<p>You can also select the colors to be used for outlining cards that match your hand whe <strong>Hint</strong> is requested, and for both AI and player&rsquo;s chips.</p>
+<p>You can also select the colors to be used for outlining cards that match your hand whe <strong>Hint</strong> is requested,  and for both AI and player&rsquo;s chips.</p>
 <p> </p>
 <h3 id="gestures">Gestures</h3>
 <p>You can control the game with the following gestures:</p>
 <ul>
 <li><strong>Tap</strong> a card in your hand to discard it.</li>
 <li><strong>Tap</strong> a card on the board to place your chip on it. If you already discarded a card, it must match the card on the board. Otherwise, the matching card will be discarded from your hand.</li>
-<li><strong>Swipe left</strong> - undo your move to discard a card. All other moves are final.</li>
+<li><strong>Swipe left</strong> - undo your move.</li>
 <li><strong>Swipe right</strong> - show <strong>Hint</strong>.</li>
 <li><strong>Swipe up</strong> - bring up the Settings view.</li>
 </ul>
