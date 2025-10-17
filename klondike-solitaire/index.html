@@ -35,7 +35,7 @@
 
 
 
-<link href="/css/custom.css?1759350537" rel="stylesheet">
+<link href="/css/custom.css?1760738537" rel="stylesheet">
 
 
 
@@ -127,6 +127,8 @@
               
               <li><a href="/labyrinth/">Labyrinth</a></li>
               
+              <li><a href="/memory">Memory</a></li>
+              
               <li><a href="/go-fish">Go Fish</a></li>
               
               <li><a href="/trash">Trash</a></li>
@@ -179,6 +181,8 @@
               <li><a href="/easthaven-solitaire">Easthaven</a></li>
               
               <li><a href="/four-seasons-solitaire">Four Seasons</a></li>
+              
+              <li><a href="/freecell">FreeCell</a></li>
               
               <li><a href="/grandfathers-clock">Grandfather&#39;s Clock</a></li>
               
@@ -299,7 +303,7 @@
                 <div class="row">
                   <div class="col-md-5">
                     <div class="image">
-                      <img src="/img/klondike-solitaire/1.png" class="img-responsive" onclick="window.open(this.src, '_self')" alt="" />
+                      <img src="/img/klondike-solitaire/klondike-1.png" class="img-responsive" onclick="window.open(this.src, '_self')" alt="" />
                     </div>
                   </div>
                   <div class="col-md-7 my-li">
@@ -312,10 +316,8 @@
 <p>The aim of the game is to build up four stacks of cards starting with Ace and ending with King, all of the same suit, on one of the four foundations, at which time the player would have won.</p>
 <p>There are following ways of dealing the remainder of the deck from the stock to the waste, selectable from the Settings view:</p>
 <ul>
-<li>Turning one card at a time to the waste with only a single pass through the deck.</li>
-<li>Turning one card at a time to the waste, with no limit on passes through the deck.</li>
-<li>Turning three cards at once to the waste, with three passes through the deck.</li>
-<li>Turning three cards at once to the waste, with no limit on passes through the deck.</li>
+<li>Turning one card at a time.</li>
+<li>Turning three cards at once.</li>
 </ul>
 <p>If the player can no longer make any meaningful moves, the game is considered lost.</p>
 </p>
@@ -334,7 +336,7 @@
                 <div class="row">
                   <div class="col-md-5">
                     <div class="image">
-                      <img src="/img/klondike-solitaire/2.png" class="img-responsive" onclick="window.open(this.src, '_self')" alt="" />
+                      <img src="/img/klondike-solitaire/klondike-2.png" class="img-responsive" onclick="window.open(this.src, '_self')" alt="" />
                     </div>
                   </div>
                   <div class="col-md-7 my-li">
@@ -369,6 +371,86 @@
 
 
         
+          
+          <div class="row">
+            <div class="col-md-12" id="blog-listing-medium">
+              <section class="post">
+                <div class="row">
+                  <div class="col-md-5">
+                    <div class="image">
+                      <img src="/img/klondike-solitaire/klondike-3.png" class="img-responsive" onclick="window.open(this.src, '_self')" alt="" />
+                    </div>
+                  </div>
+                  <div class="col-md-7 my-li">
+                    <h3>Settings</h3>
+
+                    <p><p>You can configure different options the way you like it:</p>
+<ul>
+<li><strong>Deal</strong> - select <strong>Draw 1</strong> or <strong>Draw 3</strong>.</li>
+<li><strong>Scoring</strong> - select <strong>Standard</strong> or <strong>Vegas</strong>.</li>
+<li><strong>Vegas score:</strong> - you can reset your cumulative Vegas score at any time.</li>
+<li><strong>Deck on left</strong> - show the deck on the left side of the screen.</li>
+<li><strong>Show score</strong> - show the score during the game.</li>
+<li><strong>Show timer</strong> - show the timer during the game.</li>
+<li><strong>Show bonus</strong> - in Standard scoring, show the time bonus you can get if comlete the game.</li>
+<li><strong>Show errors</strong> - show an error message if you attempt an invalid move.</li>
+<li><strong>Use large cards</strong> - use large print cards, for the smaller screens.</li>
+<li><strong>Autocomplete</strong> - move all cards to the foundation when solution is obvious.</li>
+<li><strong>Fast animation</strong> - move the cards faster.</li>
+</ul></p>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+
+
+        
+          
+          <div class="row">
+            <div class="col-md-12" id="blog-listing-medium">
+              <section class="post">
+                <div class="row">
+                  <div class="col-md-5">
+                    <div class="image">
+                      <img src="/img/klondike-solitaire/klondike-4.png" class="img-responsive" onclick="window.open(this.src, '_self')" alt="" />
+                    </div>
+                  </div>
+                  <div class="col-md-7 my-li">
+                    <h3>Standard Scoring</h3>
+
+                    <p><p>In Standard scoring, you get points:</p>
+<ul>
+<li><strong>+5</strong> - move a card from the waste pile to a tableau pile</li>
+<li><strong>+5</strong> - turn over a face-down card in the tableau</li>
+<li><strong>+10</strong> - move a card from the waste pile to a foundation</li>
+<li><strong>+10</strong> - move a card from a tableau pile to a foundation</li>
+<li><strong>-15</strong> - move a card from a foundation to a tableau pile</li>
+<li><strong>-100</strong> - cycle through the deck (Draw 1)	(after the first pass)</li>
+<li><strong>-20</strong> - cycle through the deck (Draw 3) (after four passes)</li>
+</ul>
+<h3 id="timed-bonuses-and-penalties">Timed bonuses and penalties</h3>
+<ul>
+<li><strong>Time penalty:</strong> 2 points are deducted for every 10 seconds of play.</li>
+<li><strong>Winning bonus:</strong> If you win the game, bonus points are awarded based on your finish time:
+700,000 ÷ seconds to finish added to your final score.</li>
+</ul>
+<h3 id="vegas-scoring">Vegas scoring</h3>
+<ul>
+<li><strong>Deck passes:</strong> you can only go through the deck once in Draw 1 mode, and three times in Draw 3 mode.</li>
+<li><strong>Wager:</strong> you wage $52 by starting each game, which represents $1 for each card in the deck.</li>
+<li><strong>Earning points:</strong> You earn $5 for every card you move to a foundation pile.</li>
+<li><strong>No bonus:</strong> There is no bonus for winning or penalty for time elapsed.</li>
+<li><strong>Cumulative scoring:</strong> the score is kept as a cumulative total across multiple games.</li>
+</ul></p>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+
+
+        
       </div>
       
 
@@ -381,27 +463,17 @@
 
 <div id="copyright">
   <div class="container">
-    <div class="row">
-      <div class="col-md-6">
+    <div class="footer-content">
+      
+      <p>Copyright (c) 2024 - 2025 FeinGames</p>
+      
+      <p>
         
-        <p class="pull-left">Copyright (c) 2024 - 2025 FeinGames</p>
+        <a href="https://www.facebook.com/profile.php?id=61563624710165" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-facebook'></i></a>
         
-        </div>
+        <a href="mailto:info@feingames.com" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope'></i></a>
         
-      <div class="col-md-6">
-        <p class="pull-right">
-          
-          
-          
-          <a href="https://www.facebook.com/profile.php?id=61563624710165" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-facebook'></i></a>
-          
-          <a href="mailto:info@feingames.com" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope'></i></a>
-          
-          
-          
-
-        </p>
-      </div>
+      </p>
     </div>
   </div>
 </div>
