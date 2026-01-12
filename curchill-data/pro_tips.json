@@ -1,0 +1,34 @@
+[
+  {
+    "body" : "Whenever a settings dialog, scoreboard, or toolbar is visible, tapping anywhere on the green table surface will exit the dialog or close the toolbar (as long as it is not pinned). \nThis is referred to as a tap out.",
+    "title" : "From: **Dean**: Tap Out"
+  },
+  {
+    "body" : "If you have Deal Animation enabled, tapping anywhere on the green table surface will complete the deal very quickly.  \nThis is true on all deals throughout the game.",
+    "title" : "From: **Dean**: Deal Animation"
+  },
+  {
+    "body" : "The Undo and Redo stack is only accessible from the double decker hamburger menu (DDHM).  \nIf you hit Undo or Redo from either the toolbar or via gestures, it only applies to the most recent action.  \nThe Undo and Redo stack allow you to undo or redo multiple moves in one action.",
+    "title" : "From: **Dean**: Undo and Redo Stacks"
+  },
+  {
+    "body" : "In **Settings**, the app lets you assign commands to swiping gestures.  I commonly use four of them.  \nI use left swipe for **Undo**, right swipe for **Redo**, up swipe for **Explain**, and down swipe for **Settings**.  \nDiagonal swipes are also available but I can never keep them straight.",
+    "title" : "From: **Dean**: Swipe Gestures"
+  },
+  {
+    "body" : "If you have the deck (cards leftover after **Devil Six** and **Tableaus** are dealt) on the left, pin your toolbar on the right and vise versa.  \nWhen the toolbar is pinned on the same side as the deck, you risk accidentally hitting a toolbar button when you meant to deal the cards.",
+    "title" : "From: **Dean**: Docking"
+  },
+  {
+    "body" : "If you just tap a card in a tableau (column), the app will move that card(s) to either the Foundation (victory row) or another tableau if a valid move is available.    \nIt will prioritize Foundation over Tableau.  \nIf it does not move it where you wanted you can just drag the card where you want it.",
+    "title" : "From: **Dean**: Tap Cards"
+  },
+  {
+    "body" : "When you use the **Explain** function, the app will show you a valid move if one is available.  \nIf more than one valid move is available, each time you press Explain, it will cycle to the next valid move then circle back to the first one when all valid moves have been shown.",
+    "title" : "From: **Dean**: Explain"
+  },
+  {
+    "body" : "When using the Card Designer (**Dean’s Design Studio**), you can Save your designs to a folder called Churchill on your iCloud Drive.  \nYou will have to create the folder the first time.  Now, any device that uses the same Apple ID, will have access to the same card designs.\nIf you only play on one device, you can use the Churchill folder on “On Your iPad” or “On Your iPhone” and they will get backed up when you do a device backup, so they should move across devices on a backup restore.  \nYou can also email or text them to yourself using the Share Design button.",
+    "title" : "From: **Dean**: Dean’s Design Studio"
+  }
+]
