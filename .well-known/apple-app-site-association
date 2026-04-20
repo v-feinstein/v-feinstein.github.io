@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["U3437XU959.feingames.Churchill"],
+        "components": [
+          {
+            "/": "/c/*",
+            "comment": "Shared card-design config links"
+          }
+        ]
+      }
+    ]
+  }
+}
