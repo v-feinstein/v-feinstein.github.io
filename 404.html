@@ -2,6 +2,16 @@
 <html lang="en-us">
 
   <head>
+    <script>
+    // Re-route /c/<id> → /c/?id=<id> so the landing page can handle it.
+    (function () {
+        const m = window.location.pathname.match(/^\/c\/([a-f0-9]+)\/?$/i);
+        if (m) {
+            window.location.replace('/c/?id=' + encodeURIComponent(m[1]));
+        }
+    })();
+</script>
+
     <meta charset="utf-8">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
