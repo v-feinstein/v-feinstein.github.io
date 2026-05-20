@@ -1,3 +1,0 @@
-version,1
-freecell_w,5
-freecell_s,3

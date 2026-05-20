@@ -1,5005 +1,6167 @@
 [
   {
-    "alias" : "# Coni13 #",
-    "scores" : [
+    "a" : "# Coni13 #",
+    "s" : [
       [
-        "grp.Australian",
+        "australian",
         193
       ]
     ]
   },
   {
-    "alias" : "( Weenie67 )",
-    "scores" : [
+    "a" : "( Weenie67 )",
+    "s" : [
       [
-        "grp.RoyalParade",
+        "royalparade",
         12
       ]
     ]
   },
   {
-    "alias" : "(:snarg:)",
-    "scores" : [
+    "a" : "(:snarg:)",
+    "s" : [
       [
-        "grp.AlgerianS",
+        "algerian",
         18
       ]
     ]
   },
   {
-    "alias" : "(Djmarv)",
-    "scores" : [
+    "a" : "(Djmarv)",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         9
       ]
     ]
   },
   {
-    "alias" : "(Thommo33)",
-    "scores" : [
+    "a" : "(Thommo33)",
+    "s" : [
       [
-        "grp.Clock",
+        "clock",
         1
       ]
     ]
   },
   {
-    "alias" : "* Jessica1998 *",
-    "scores" : [
+    "a" : "* Jessica1998 *",
+    "s" : [
       [
-        "grp.Klondike.1S",
-        4562
-      ],
-      [
-        "grp.Klondike.1T",
-        169
+        "klondike",
+        3
       ]
     ]
   },
   {
-    "alias" : "*![jenpen]!*",
-    "scores" : [
+    "a" : "*![jenpen]!*",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         7
       ]
     ]
   },
   {
-    "alias" : "+ Elf.20 +",
-    "scores" : [
+    "a" : "+ Elf.20 +",
+    "s" : [
       [
-        "grp.FG_Medici_Leaderboard",
+        "yukon",
+        24
+      ],
+      [
+        "tripeaks.r",
+        34
+      ],
+      [
+        "pyramid",
+        185
+      ],
+      [
+        "medici",
         7
       ],
       [
-        "grp.Castles",
+        "castlesinspain",
         14
       ],
       [
-        "grp.Martha",
+        "martha",
         99
       ],
       [
-        "grp.RoyalParade",
+        "royalparade",
         171
       ],
       [
-        "grp.RussianSolitaire2",
+        "russian",
         1
       ],
       [
-        "grp.AlgerianR",
+        "algerian.r",
         127
       ],
       [
-        "grp.KlondikeSolitaire",
-        1
-      ],
-      [
-        "grp.Olymp",
+        "mountolympus",
         29
       ],
       [
-        "grp.JosephineR",
+        "josephine.r",
         245
       ],
       [
-        "grp.Easthaven1",
+        "easthaven.r",
         1
       ],
       [
-        "grp.GFClock",
+        "grandfathersclock",
         2
       ]
     ]
   },
   {
-    "alias" : "+--Batrad--+",
-    "scores" : [
+    "a" : "+--Batrad--+",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         27
       ]
     ]
   },
   {
-    "alias" : "- Bubbly143 -",
-    "scores" : [
+    "a" : "- Bubbly143 -",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         2
       ]
     ]
   },
   {
-    "alias" : "- ohtracy12",
-    "scores" : [
+    "a" : "- ohtracy12",
+    "s" : [
       [
-        "grp.Clock",
+        "clock",
         1
       ]
     ]
   },
   {
-    "alias" : "---NLM---",
-    "scores" : [
+    "a" : "---NLM---",
+    "s" : [
       [
-        "grp.Clock",
+        "clock",
         2
       ]
     ]
   },
   {
-    "alias" : "..Mandajean..",
-    "scores" : [
+    "a" : "..Mandajean..",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         2
       ]
     ]
   },
   {
-    "alias" : "007!q",
-    "scores" : [
+    "a" : "007!q",
+    "s" : [
       [
-        "grp.RussianSolitaire2",
+        "russian",
         1
       ]
     ]
   },
   {
-    "alias" : "10Z3us10",
-    "scores" : [
+    "a" : "10Z3us10",
+    "s" : [
       [
-        "grp.AlgerianS",
+        "algerian",
         15
       ]
     ]
   },
   {
-    "alias" : "1947 Grandma",
-    "scores" : [
+    "a" : "1947 Grandma",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         6
       ]
     ]
   },
   {
-    "alias" : "2022Harry69",
-    "scores" : [
+    "a" : "2022Harry69",
+    "s" : [
       [
-        "grp.Clock",
+        "clock",
         1
       ]
     ]
   },
   {
-    "alias" : "235liz727",
-    "scores" : [
+    "a" : "235liz727",
+    "s" : [
       [
-        "grp.NapoleonR",
+        "napoleon.r",
         177
       ]
     ]
   },
   {
-    "alias" : ":*:Papa65:*:",
-    "scores" : [
+    "a" : ":*:Papa65:*:",
+    "s" : [
       [
-        "grp.CrazyQuilt1",
+        "crazyquilt",
         1
       ]
     ]
   },
   {
-    "alias" : "<< Randielise>>",
-    "scores" : [
+    "a" : "<< Randielise>>",
+    "s" : [
       [
-        "grp.AlgerianS",
+        "algerian",
         13
       ]
     ]
   },
   {
-    "alias" : "<GR€G>",
-    "scores" : [
+    "a" : "<Srm68>",
+    "s" : [
       [
-        "grp.Klondike.VS",
-        33
-      ]
-    ]
-  },
-  {
-    "alias" : "<Srm68>",
-    "scores" : [
-      [
-        "grp.Osmosis",
+        "osmosis",
         169
       ]
     ]
   },
   {
-    "alias" : "=GoPat=",
-    "scores" : [
+    "a" : "=GoPat=",
+    "s" : [
       [
-        "grp.Easthaven1",
+        "easthaven.r",
         28
       ]
     ]
   },
   {
-    "alias" : "A.Fonzarelli",
-    "scores" : [
+    "a" : "A.Fonzarelli",
+    "s" : [
       [
-        "grp.Australian",
+        "australian",
         19
       ],
       [
-        "grp.Tasmanian",
+        "tasmanian",
         10
       ]
     ]
   },
   {
-    "alias" : "AM Blitzen",
-    "scores" : [
+    "a" : "AM Blitzen",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         15
       ]
     ]
   },
   {
-    "alias" : "Ablingo From River Citadel",
-    "scores" : [
+    "a" : "Ablingo From River Citadel",
+    "s" : [
       [
-        "grp.Clock",
+        "clock",
         1
       ]
     ]
   },
   {
-    "alias" : "Africagirl22",
-    "scores" : [
+    "a" : "Africagirl22",
+    "s" : [
       [
-        "grp.RoyalParade",
+        "royalparade",
         4
       ]
     ]
   },
   {
-    "alias" : "AgentKali11",
-    "scores" : [
+    "a" : "AgentKali11",
+    "s" : [
       [
-        "grp.SpanishPatience",
+        "spanish",
         1
       ]
     ]
   },
   {
-    "alias" : "Akibakun",
-    "scores" : [
+    "a" : "Alen:\/",
+    "s" : [
       [
-        "grp.Klondike.VS",
-        23
-      ]
-    ]
-  },
-  {
-    "alias" : "Alen:\/",
-    "scores" : [
-      [
-        "grp.JosephineR",
+        "josephine.r",
         3
       ],
       [
-        "grp.NapoleonR",
+        "napoleon.r",
         3
       ]
     ]
   },
   {
-    "alias" : "AllyKatAZ",
-    "scores" : [
+    "a" : "AllyKatAZ",
+    "s" : [
       [
-        "grp.Clock",
+        "clock",
         1
       ]
     ]
   },
   {
-    "alias" : "Angele Londonacha",
-    "scores" : [
+    "a" : "Angele Londonacha",
+    "s" : [
       [
-        "grp.AlgerianS",
+        "algerian",
         7
       ]
     ]
   },
   {
-    "alias" : "Angelle2308",
-    "scores" : [
+    "a" : "Angelle2308",
+    "s" : [
       [
-        "grp.RoyalParade",
+        "royalparade",
         2
       ]
     ]
   },
   {
-    "alias" : "AnnaCeciel",
-    "scores" : [
+    "a" : "AnnaCeciel",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         5
       ]
     ]
   },
   {
-    "alias" : "AnneKeolee",
-    "scores" : [
+    "a" : "AnneKeolee",
+    "s" : [
       [
-        "grp.GFClock",
+        "grandfathersclock",
         8
       ]
     ]
   },
   {
-    "alias" : "Anregender Flaschengeist 56",
-    "scores" : [
+    "a" : "Anregender Flaschengeist 56",
+    "s" : [
       [
-        "grp.Castles",
+        "castlesinspain",
         1
       ]
     ]
   },
   {
-    "alias" : "Arcane Satyr of Burgundy Abbey",
-    "scores" : [
+    "a" : "Arcane Satyr of Burgundy Abbey",
+    "s" : [
       [
-        "grp.BlueMoon",
+        "bluemoon",
         1
       ]
     ]
   },
   {
-    "alias" : "ArrogantHorse2553",
-    "scores" : [
+    "a" : "ArrogantHorse2553",
+    "s" : [
       [
-        "grp.Klondike.1S",
-        2980
-      ],
-      [
-        "grp.Klondike.1T",
-        307
+        "klondike",
+        2
       ]
     ]
   },
   {
-    "alias" : "Ascheladdoo",
-    "scores" : [
+    "a" : "Ascheladdoo",
+    "s" : [
       [
-        "grp.BakersDozen",
+        "bakersdozen",
         1
       ],
       [
-        "grp.SpanishPatience",
+        "spanish",
         1
       ],
       [
-        "grp.Castles",
+        "castlesinspain",
         3
       ],
       [
-        "grp.Martha",
+        "martha",
         1
       ],
       [
-        "grp.Australian",
+        "australian",
         3
       ],
       [
-        "grp.AlgerianS",
+        "algerian",
         139
       ],
       [
-        "grp.AlgerianR",
+        "algerian.r",
         1
       ],
       [
-        "grp.NapoleonR",
+        "napoleon.r",
         1
       ],
       [
-        "grp.Easthaven1",
+        "easthaven.r",
         1
       ]
     ]
   },
   {
-    "alias" : "Astericks_",
-    "scores" : [
+    "a" : "Astericks_",
+    "s" : [
       [
-        "grp.RoyalParade",
+        "royalparade",
         1
       ]
     ]
   },
   {
-    "alias" : "AulneDiurne6529",
-    "scores" : [
+    "a" : "AulneDiurne6529",
+    "s" : [
       [
-        "grp.Australian",
+        "australian",
         30
       ]
     ]
   },
   {
-    "alias" : "B 1 imunda",
-    "scores" : [
+    "a" : "BBBo1",
+    "s" : [
       [
-        "grp.Klondike.VS",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "BBBo1",
-    "scores" : [
-      [
-        "grp.Australian",
+        "australian",
         1
       ]
     ]
   },
   {
-    "alias" : "BKenney23",
-    "scores" : [
+    "a" : "BKenney23",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         2
       ]
     ]
   },
   {
-    "alias" : "Baddest Cat 561",
-    "scores" : [
+    "a" : "Baddest Cat 561",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         8
       ]
     ]
   },
   {
-    "alias" : "Baidarus",
-    "scores" : [
+    "a" : "Baidarus",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         2
       ]
     ]
   },
   {
-    "alias" : "BarkingGolem2927",
-    "scores" : [
+    "a" : "BarkingGolem2927",
+    "s" : [
       [
-        "grp.NapoleonR",
+        "napoleon.r",
         4
       ]
     ]
   },
   {
-    "alias" : "Baron irrésistible de Vineta",
-    "scores" : [
+    "a" : "Baron irrésistible de Vineta",
+    "s" : [
       [
-        "grp.NapoleonS",
+        "napoleon",
         3
       ]
     ]
   },
   {
-    "alias" : "Ba👍🏻",
-    "scores" : [
+    "a" : "Ba👍🏻",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
         47
       ]
     ]
   },
   {
-    "alias" : "Bezzy2956",
-    "scores" : [
+    "a" : "Bezzy2956",
+    "s" : [
       [
-        "grp.Clock",
+        "clock",
         1
       ]
     ]
   },
   {
-    "alias" : "Bluer-scarf",
-    "scores" : [
+    "a" : "Bluer-scarf",
+    "s" : [
       [
-        "grp.BlueMoon",
-        7
-      ]
-    ]
-  },
-  {
-    "alias" : "BluntestOx6332",
-    "scores" : [
-      [
-        "grp.Clock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Boots The Dinosaur",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        20
-      ]
-    ]
-  },
-  {
-    "alias" : "Brenda$46",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        15
-      ]
-    ]
-  },
-  {
-    "alias" : "BrightUrchin1506",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Brooke212000",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ],
-      [
-        "grp.Martha",
-        4
-      ],
-      [
-        "grp.KlondikeSolitaire",
-        1
-      ],
-      [
-        "grp.Olymp",
-        3
-      ],
-      [
-        "grp.GFClock",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "BrownGurl776",
-    "scores" : [
-      [
-        "grp.Castles",
-        9
-      ]
-    ]
-  },
-  {
-    "alias" : "BuffaloGal830",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        24
-      ],
-      [
-        "grp.RoyalParade",
-        26
-      ],
-      [
-        "grp.RussianSolitaire2",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "BulkyImp2870",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        6
-      ],
-      [
-        "grp.CrazyQuilt2",
-        80
-      ]
-    ]
-  },
-  {
-    "alias" : "Bwalzyy",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "BüyükSamur54",
-    "scores" : [
-      [
-        "grp.NapoleonR",
-        32
-      ]
-    ]
-  },
-  {
-    "alias" : "CARLA IS GREAT",
-    "scores" : [
-      [
-        "grp.RussianSolitaire2",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "CATWolfLightning",
-    "scores" : [
-      [
-        "grp.Tasmanian",
-        44
-      ]
-    ]
-  },
-  {
-    "alias" : "CCC1958",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        1
-      ],
-      [
-        "grp.CrazyQuilt2",
-        149
-      ]
-    ]
-  },
-  {
-    "alias" : "CN-Vapegirl233",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        2236
-      ],
-      [
-        "grp.Klondike.3S",
-        3007
-      ],
-      [
-        "grp.Klondike.1T",
-        372
-      ],
-      [
-        "grp.Klondike.3T",
-        282
-      ],
-      [
-        "grp.Klondike.VS",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "Caleigh Rupert",
-    "scores" : [
-      [
-        "grp.Canberra",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Candaceboom",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "CapacRaimi",
-    "scores" : [
-      [
-        "grp.Martha",
-        1
-      ],
-      [
-        "grp.Klondike.1S",
-        4452
-      ],
-      [
-        "grp.Klondike.1T",
-        178
-      ]
-    ]
-  },
-  {
-    "alias" : "Captain Mozi",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
-        23
-      ]
-    ]
-  },
-  {
-    "alias" : "Carms31904",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "Cav1500",
-    "scores" : [
-      [
-        "grp.Castles",
-        30
-      ]
-    ]
-  },
-  {
-    "alias" : "Chickeneaster",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        4727
-      ],
-      [
-        "grp.Klondike.1T",
-        170
-      ]
-    ]
-  },
-  {
-    "alias" : "ChristyLucky16",
-    "scores" : [
-      [
-        "grp.Klondike.1T",
-        233
-      ],
-      [
-        "grp.Klondike.VS",
-        330
-      ]
-    ]
-  },
-  {
-    "alias" : "ClawedQuester7538",
-    "scores" : [
-      [
-        "grp.Czarina",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "CleanMoose3483",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        21
-      ]
-    ]
-  },
-  {
-    "alias" : "Climbing Savage 470",
-    "scores" : [
-      [
-        "grp.Australian",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Conquérant hurleur de Napata",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "CopperJester800",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Cosmomausi",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        61
-      ]
-    ]
-  },
-  {
-    "alias" : "Courtney Rearick",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Craaby_",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "DBCRB",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        45
-      ]
-    ]
-  },
-  {
-    "alias" : "Da Top Dog 29",
-    "scores" : [
-      [
-        "grp.Canberra",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Dalya🌸",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "DannyRayday",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        3770
-      ],
-      [
-        "grp.Klondike.1T",
-        228
-      ]
-    ]
-  },
-  {
-    "alias" : "Darkest Asp 854",
-    "scores" : [
-      [
-        "grp.RussianSolitaire2",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Debbie293949",
-    "scores" : [
-      [
-        "grp.Australian",
-        36
-      ]
-    ]
-  },
-  {
-    "alias" : "Determined Owl of Massive Hill",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Dimber01",
-    "scores" : [
-      [
-        "grp.Australian",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Disco Panda of the Dos Manos",
-    "scores" : [
-      [
-        "grp.Martha",
-        299
-      ]
-    ]
-  },
-  {
-    "alias" : "Divine Gaoler 27",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "DivinePanda2315",
-    "scores" : [
-      [
-        "grp.Australian",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "DivingFish6860",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "DivingGoose906",
-    "scores" : [
-      [
-        "grp.BigBen",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "DivingKhan887",
-    "scores" : [
-      [
-        "grp.Klondike.3S",
-        2122
-      ],
-      [
-        "grp.Klondike.3T",
-        487
-      ]
-    ]
-  },
-  {
-    "alias" : "Does Anybody Care",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Dogwood000",
-    "scores" : [
-      [
-        "grp.Australian",
-        45
-      ]
-    ]
-  },
-  {
-    "alias" : "Dominge Bracampo",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Dominic🌚👽🐸",
-    "scores" : [
-      [
-        "grp.BakersDozen",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Drab Overseer from Navy Shore",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        29
-      ]
-    ]
-  },
-  {
-    "alias" : "DrabGaoler1950",
-    "scores" : [
-      [
-        "grp.Easthaven1",
-        1410
-      ]
-    ]
-  },
-  {
-    "alias" : "Drew MacLennan",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        28
-      ]
-    ]
-  },
-  {
-    "alias" : "Easy Ghoul from Puce Forest",
-    "scores" : [
-      [
-        "grp.FourSeasons",
-        25
-      ]
-    ]
-  },
-  {
-    "alias" : "EbullientSue",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        335
-      ]
-    ]
-  },
-  {
-    "alias" : "EllaR2204",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "Emaggie8899",
-    "scores" : [
-      [
-        "grp.Australian",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "Engel des hellen Bergs",
-    "scores" : [
-      [
-        "grp.Australian",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "Evemar60",
-    "scores" : [
-      [
-        "grp.NapoleonS",
-        69
-      ],
-      [
-        "grp.NapoleonR",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "Fast as fluff",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        69
-      ]
-    ]
-  },
-  {
-    "alias" : "FierceMare3805",
-    "scores" : [
-      [
-        "grp.Australian",
-        250
-      ]
-    ]
-  },
-  {
-    "alias" : "FierceOryx366",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Foolish Goose of Black Moat",
-    "scores" : [
-      [
-        "grp.Clock",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "Fozzy1117",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        198
-      ]
-    ]
-  },
-  {
-    "alias" : "FrankArtist5955",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Frau Muttie",
-    "scores" : [
-      [
-        "grp.Castles",
-        3
-      ],
-      [
-        "grp.Klondike.1S",
-        2726
-      ],
-      [
-        "grp.Klondike.1T",
-        348
-      ]
-    ]
-  },
-  {
-    "alias" : "FunnyUndead4932",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "FurieSereine941",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        17
-      ]
-    ]
-  },
-  {
-    "alias" : "GL7982",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Galley_Slave",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        143
-      ]
-    ]
-  },
-  {
-    "alias" : "Gamer🦋",
-    "scores" : [
-      [
-        "grp.Castles",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "GappySeal7553",
-    "scores" : [
-      [
-        "grp.FourSeasons",
-        14
-      ]
-    ]
-  },
-  {
-    "alias" : "GatorJim 75",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        143
-      ]
-    ]
-  },
-  {
-    "alias" : "GiantMoose4785",
-    "scores" : [
-      [
-        "grp.Castles",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Girafa1814",
-    "scores" : [
-      [
-        "grp.Easthaven1",
-        86
-      ]
-    ]
-  },
-  {
-    "alias" : "Gladaloket40",
-    "scores" : [
-      [
-        "grp.Clock",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Gladysjunior!",
-    "scores" : [
-      [
-        "grp.KlondikeSolitaire",
-        45
-      ]
-    ]
-  },
-  {
-    "alias" : "Glimmerman1978",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Golden Protector 70",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        6
-      ],
-      [
-        "grp.CrazyQuilt2",
-        24
-      ]
-    ]
-  },
-  {
-    "alias" : "GrayGunner9579",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        21
-      ]
-    ]
-  },
-  {
-    "alias" : "GraySeer134",
-    "scores" : [
-      [
-        "grp.BlueMoon",
-        50
-      ],
-      [
-        "grp.CrazyQuilt1",
-        3
-      ],
-      [
-        "grp.CrazyQuilt2",
-        189
-      ]
-    ]
-  },
-  {
-    "alias" : "Great Programmer 520",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "GreatGunner2580",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "GreatSlug876",
-    "scores" : [
-      [
-        "grp.Australian",
-        4
-      ],
-      [
-        "grp.Canberra",
-        45
-      ],
-      [
-        "grp.Tasmanian",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "GreenDjinn2819",
-    "scores" : [
-      [
-        "grp.MonteCarlo",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "GreySapper6027",
-    "scores" : [
-      [
-        "grp.Clock",
-        17
-      ]
-    ]
-  },
-  {
-    "alias" : "GrimKnight5328",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        6340
-      ],
-      [
-        "grp.Klondike.1T",
-        124
-      ]
-    ]
-  },
-  {
-    "alias" : "Grlgaun2",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        18
-      ]
-    ]
-  },
-  {
-    "alias" : "Grumpy-pa",
-    "scores" : [
-      [
-        "grp.Castles",
-        190
-      ]
-    ]
-  },
-  {
-    "alias" : "HairyBarber4327",
-    "scores" : [
-      [
-        "grp.Australian",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "HairyCondor3525",
-    "scores" : [
-      [
-        "grp.Australian",
-        33
-      ]
-    ]
-  },
-  {
-    "alias" : "HairyMentor3150",
-    "scores" : [
-      [
-        "grp.Clock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "HappySnake2690",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        106
-      ]
-    ]
-  },
-  {
-    "alias" : "Hechizo fuego",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        3746
-      ],
-      [
-        "grp.Klondike.1T",
-        213
-      ]
-    ]
-  },
-  {
-    "alias" : "Heroic Overseer 613",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        53
-      ]
-    ]
-  },
-  {
-    "alias" : "HeroicWizard6590",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        2514
-      ],
-      [
-        "grp.Klondike.1T",
-        351
-      ]
-    ]
-  },
-  {
-    "alias" : "HiddenSnake3344",
-    "scores" : [
-      [
-        "grp.BakersDozen",
-        166
-      ]
-    ]
-  },
-  {
-    "alias" : "HidingGiant1062",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "HisKid2226",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "HiwaRahman1",
-    "scores" : [
-      [
-        "grp.NapoleonR",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "HumbleMoose9481",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Hypnotic Burglar 101",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "I-Autom8",
-    "scores" : [
-      [
-        "grp.Canberra",
-        1
-      ],
-      [
-        "grp.Tasmanian",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "IcyMinotaur2353",
-    "scores" : [
-      [
-        "grp.Czarina",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Iluvdasouth2",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        82
-      ]
-    ]
-  },
-  {
-    "alias" : "Iman Tahsin",
-    "scores" : [
-      [
-        "grp.NapoleonR",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Intelligent Lizard 877",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        15
-      ]
-    ]
-  },
-  {
-    "alias" : "Intelligent Magician 510",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        16
-      ]
-    ]
-  },
-  {
-    "alias" : "Irishgirl679",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "IronBear7853",
-    "scores" : [
-      [
-        "grp.Clock",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "Is41021",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        13
-      ]
-    ]
-  },
-  {
-    "alias" : "J31146",
-    "scores" : [
-      [
-        "grp.Olymp",
-        7
-      ]
-    ]
-  },
-  {
-    "alias" : "Jac Uimurchu",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "Jjghgdcb",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        13
-      ]
-    ]
-  },
-  {
-    "alias" : "Jobje234",
-    "scores" : [
-      [
-        "grp.RussianSolitaire2",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Jophied",
-    "scores" : [
-      [
-        "grp.Australian",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "Joquisimo",
-    "scores" : [
-      [
-        "grp.Martha",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "JoshB626",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "JoshPasan",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Jovan Colonyak",
-    "scores" : [
-      [
-        "grp.Australian",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "K1 N00",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        8359
-      ],
-      [
-        "grp.Klondike.1T",
-        88
-      ]
-    ]
-  },
-  {
-    "alias" : "K2S^><^",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        119
-      ]
-    ]
-  },
-  {
-    "alias" : "KTwo",
-    "scores" : [
-      [
-        "grp.Martha",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Kajost 99",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        73
-      ]
-    ]
-  },
-  {
-    "alias" : "Karsmok",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        99
-      ]
-    ]
-  },
-  {
-    "alias" : "Katiebug339",
-    "scores" : [
-      [
-        "grp.Australian",
-        62
-      ]
-    ]
-  },
-  {
-    "alias" : "KayGon1189",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        32
-      ]
-    ]
-  },
-  {
-    "alias" : "Kayadaki İri Jaguar",
-    "scores" : [
-      [
-        "grp.Klondike.1T",
-        423
-      ]
-    ]
-  },
-  {
-    "alias" : "KeenHippo4196",
-    "scores" : [
-      [
-        "grp.FourSeasons",
-        74
-      ]
-    ]
-  },
-  {
-    "alias" : "Kellybelle5386",
-    "scores" : [
-      [
-        "grp.Australian",
-        10
-      ]
-    ]
-  },
-  {
-    "alias" : "KelsMom84",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Kenzygrl01",
-    "scores" : [
-      [
-        "grp.Australian",
-        3
-      ],
-      [
-        "grp.RoyalParade",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Kiana The Discrete Overseer",
-    "scores" : [
-      [
-        "grp.Clock",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Kiki Hana12",
-    "scores" : [
-      [
-        "grp.NapoleonR",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "KindWyvern7844",
-    "scores" : [
-      [
-        "grp.Australian",
-        251
-      ]
-    ]
-  },
-  {
-    "alias" : "Klenaet",
-    "scores" : [
-      [
-        "grp.Castles",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "KoukiDoe25",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        24
-      ]
-    ]
-  },
-  {
-    "alias" : "LOAYSAX",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        3226
-      ],
-      [
-        "grp.Klondike.1T",
-        265
-      ],
-      [
-        "grp.Klondike.VS",
-        58
-      ]
-    ]
-  },
-  {
-    "alias" : "LazyRebel2531",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Lee Hore",
-    "scores" : [
-      [
-        "grp.Clock",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "Lethal Rhodes",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        17
-      ]
-    ]
-  },
-  {
-    "alias" : "Leuchtender Kolibri 51",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "Liz la vré",
-    "scores" : [
-      [
-        "grp.Australian",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "LockigeZelia66",
-    "scores" : [
-      [
-        "grp.GFClock",
-        142
-      ]
-    ]
-  },
-  {
-    "alias" : "Lone Forester from Tiny Castle",
-    "scores" : [
-      [
-        "grp.Tasmanian",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "LoneRebel6039",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        129
-      ]
-    ]
-  },
-  {
-    "alias" : "LordTonychicken",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Lord_Gamaranth",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        12474
-      ],
-      [
-        "grp.Klondike.1T",
-        59
-      ]
-    ]
-  },
-  {
-    "alias" : "LouLouBelle333",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        20
-      ]
-    ]
-  },
-  {
-    "alias" : "LucidezPotente1",
-    "scores" : [
-      [
-        "grp.NapoleonR",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "LuckyLizard5788",
-    "scores" : [
-      [
-        "grp.Czarina",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Lumi_ere_",
-    "scores" : [
-      [
-        "grp.Australian",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "LurkingMoose1897",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        55
-      ]
-    ]
-  },
-  {
-    "alias" : "Lyndsaypan",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        15
-      ]
-    ]
-  },
-  {
-    "alias" : "Mabolita.",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "MadCondor5971",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Maddy081729",
-    "scores" : [
-      [
-        "grp.GFClock",
-        12
-      ]
-    ]
-  },
-  {
-    "alias" : "Maggles McCollough",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        4
-      ],
-      [
-        "grp.CrazyQuilt2",
-        41
-      ]
-    ]
-  },
-  {
-    "alias" : "MakowyStatek71",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Marily47",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Markarnp",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Maximo339",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "MedusaEstoica19",
-    "scores" : [
-      [
-        "grp.BakersDozen",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "Mesmerizing Puce Lemur",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Michy_27",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Midnightsky03",
-    "scores" : [
-      [
-        "grp.Tasmanian",
-        18
-      ]
-    ]
-  },
-  {
-    "alias" : "Mike1959 98",
-    "scores" : [
-      [
-        "grp.BigBen",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "MinecraftWyat",
-    "scores" : [
-      [
-        "grp.Clock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Moberhaus21",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "Mop5+3",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "MopingWhiz8624",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Mrfixit2011",
-    "scores" : [
-      [
-        "grp.Australian",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "Mrs. Wagner 1102",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Msalayneus",
-    "scores" : [
-      [
-        "grp.Easthaven1",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Msmon3y",
-    "scores" : [
-      [
-        "grp.GFClock",
-        3181
-      ]
-    ]
-  },
-  {
-    "alias" : "Mugception",
-    "scores" : [
-      [
-        "grp.Australian",
-        262
-      ]
-    ]
-  },
-  {
-    "alias" : "Mulenga Mulenga",
-    "scores" : [
-      [
-        "grp.BakersDozen",
-        558
-      ]
-    ]
-  },
-  {
-    "alias" : "NAIFBBBB",
-    "scores" : [
-      [
-        "grp.Castles",
-        179
-      ]
-    ]
-  },
-  {
-    "alias" : "Nadie913",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Nice Scorpion of Giant Grove",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "OddCajun35",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        15
-      ]
-    ]
-  },
-  {
-    "alias" : "OdysseyGirl55",
-    "scores" : [
-      [
-        "grp.NapoleonR",
-        9
-      ]
-    ]
-  },
-  {
-    "alias" : "P3rk58",
-    "scores" : [
-      [
-        "grp.Australian",
-        41
-      ]
-    ]
-  },
-  {
-    "alias" : "PaulBlartKinnie",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Perennial Favorite Gs",
-    "scores" : [
-      [
-        "grp.AlgerianR",
-        85
-      ]
-    ]
-  },
-  {
-    "alias" : "Phoenix_235",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "PjoterT",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Podunkdeac",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Polkadodge68",
-    "scores" : [
-      [
-        "grp.GFClock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "PristineTomcat9724",
-    "scores" : [
-      [
-        "grp.Clock",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "Prying Builder 904",
-    "scores" : [
-      [
-        "grp.Castles",
-        24
-      ]
-    ]
-  },
-  {
-    "alias" : "PsychoEmperor",
-    "scores" : [
-      [
-        "grp.Klondike.3T",
-        126
-      ],
-      [
-        "grp.Klondike.VS",
-        1976
-      ]
-    ]
-  },
-  {
-    "alias" : "Puce Ayotte 46",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        42
-      ]
-    ]
-  },
-  {
-    "alias" : "Queen of Silly",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "Queer Queen of the Ladies",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "QuietRaven4993",
-    "scores" : [
-      [
-        "grp.Clock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Raffo2006",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        53
-      ]
-    ]
-  },
-  {
-    "alias" : "Raklfried",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        231
-      ]
-    ]
-  },
-  {
-    "alias" : "Ramsman1975",
-    "scores" : [
-      [
-        "grp.Clock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "RasendeSjef29",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        141
-      ]
-    ]
-  },
-  {
-    "alias" : "Redseliger Hirschkäfer 29",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "Reggie4nn",
-    "scores" : [
-      [
-        "grp.BakersDozen",
-        73
-      ]
-    ]
-  },
-  {
-    "alias" : "ReinerClown1967",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1263
-      ]
-    ]
-  },
-  {
-    "alias" : "Relm",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "Respectful Destroyer 987",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Roman day",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "Rosagmcmikhi",
-    "scores" : [
-      [
-        "grp.Clock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Rst8532",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1408
-      ]
-    ]
-  },
-  {
-    "alias" : "SGPESP",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "STL167",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        2390
-      ],
-      [
-        "grp.Klondike.1T",
-        419
-      ]
-    ]
-  },
-  {
-    "alias" : "Samneumann909",
-    "scores" : [
-      [
-        "grp.Australian",
-        13
-      ]
-    ]
-  },
-  {
-    "alias" : "Sandy1953:-)",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        34
-      ]
-    ]
-  },
-  {
-    "alias" : "Sanfter Wurm 20",
-    "scores" : [
-      [
-        "grp.GFClock",
-        25
-      ]
-    ]
-  },
-  {
-    "alias" : "SepiaPython1358",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Shalls60",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "ShyOverseer4168",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        43
-      ]
-    ]
-  },
-  {
-    "alias" : "SiamésCrítico76",
-    "scores" : [
-      [
-        "grp.BigBen",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Simon55😄",
-    "scores" : [
-      [
-        "grp.BigBen",
-        2
-      ],
-      [
-        "grp.BakersDozen",
-        5
-      ],
-      [
-        "grp.Osmosis",
-        3
-      ],
-      [
-        "grp.MonteCarlo",
-        2
-      ],
-      [
-        "grp.SpanishPatience",
-        2
-      ],
-      [
-        "grp.Martha",
-        5
-      ],
-      [
-        "grp.Australian",
-        82
-      ],
-      [
-        "grp.RoyalParade",
-        5
-      ],
-      [
-        "grp.RussianSolitaire2",
-        1
-      ],
-      [
-        "grp.Olymp",
-        1
-      ],
-      [
-        "grp.Easthaven1",
-        45
-      ],
-      [
-        "grp.GFClock",
-        7
-      ]
-    ]
-  },
-  {
-    "alias" : "SincereWhiz2708",
-    "scores" : [
-      [
-        "grp.Australian",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Sing4kristen",
-    "scores" : [
-      [
-        "grp.MonteCarlo",
-        9
-      ]
-    ]
-  },
-  {
-    "alias" : "SjSings2",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Skihase🎿",
-    "scores" : [
-      [
-        "grp.Australian",
-        26
-      ]
-    ]
-  },
-  {
-    "alias" : "Sleepiest Pursuer 838",
-    "scores" : [
-      [
-        "grp.Australian",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "SlowestCrow2283",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Smart Noble from Copper Jungle",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        14
-      ]
-    ]
-  },
-  {
-    "alias" : "Sophie_hi23",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "SquatArcheress8966",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        32
-      ]
-    ]
-  },
-  {
-    "alias" : "StJacque",
-    "scores" : [
-      [
-        "grp.Australian",
-        36
-      ]
-    ]
-  },
-  {
-    "alias" : "Steelyza Dan",
-    "scores" : [
-      [
-        "grp.Australian",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Suggmeister Supreme",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "SuperLogan29",
-    "scores" : [
-      [
-        "grp.Clock",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "SuperSapper8226",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        40
-      ]
-    ]
-  },
-  {
-    "alias" : "SuperSlugo",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        17
-      ]
-    ]
-  },
-  {
-    "alias" : "SuperSpider3236",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        71
-      ]
-    ]
-  },
-  {
-    "alias" : "SurpasserOfGods",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        10
-      ]
-    ]
-  },
-  {
-    "alias" : "Susiemlr",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        92
-      ]
-    ]
-  },
-  {
-    "alias" : "Sweet Caroline Ny",
-    "scores" : [
-      [
-        "grp.JosephineR",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "TNTChicken22",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "TW☻lf",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        1352
-      ],
-      [
-        "grp.Klondike.1T",
-        665
-      ]
-    ]
-  },
-  {
-    "alias" : "Talking Gaoler of Magenta Lake",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "Tanzie75",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        7
-      ]
-    ]
-  },
-  {
-    "alias" : "Tapandtake",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        110
-      ]
-    ]
-  },
-  {
-    "alias" : "Tew_18",
-    "scores" : [
-      [
-        "grp.Australian",
-        16
-      ]
-    ]
-  },
-  {
-    "alias" : "The Biggest Party Ever",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        289
-      ]
-    ]
-  },
-  {
-    "alias" : "TheCongressGuy",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        55
-      ]
-    ]
-  },
-  {
-    "alias" : "ThinPirate9477",
-    "scores" : [
-      [
-        "grp.Clock",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "Tigwanii",
-    "scores" : [
-      [
-        "grp.Klondike.3S",
-        2387
-      ],
-      [
-        "grp.Klondike.3T",
-        380
-      ]
-    ]
-  },
-  {
-    "alias" : "TinyBoggart8846",
-    "scores" : [
-      [
-        "grp.RussianSolitaire2",
-        1046
-      ]
-    ]
-  },
-  {
-    "alias" : "TinyParent4445",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "TinySprite9885",
-    "scores" : [
-      [
-        "grp.Australian",
-        45
-      ]
-    ]
-  },
-  {
-    "alias" : "Toadstet",
-    "scores" : [
-      [
-        "grp.Castles",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "TopBrass81",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        1146
-      ],
-      [
-        "grp.Klondike.1T",
-        1453
-      ]
-    ]
-  },
-  {
-    "alias" : "Tpmoney10",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        28
-      ],
-      [
-        "grp.Klondike.3S",
-        4727
-      ],
-      [
-        "grp.Klondike.3T",
-        174
-      ]
-    ]
-  },
-  {
-    "alias" : "Tracekeggers",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        18
-      ]
-    ]
-  },
-  {
-    "alias" : "Tutmumien47",
-    "scores" : [
-      [
-        "grp.Clock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Twanman1412",
-    "scores" : [
-      [
-        "grp.BakersDozen",
-        2
-      ],
-      [
-        "grp.SpanishPatience",
-        2
-      ],
-      [
-        "grp.Castles",
-        3
-      ],
-      [
-        "grp.Martha",
-        2
-      ],
-      [
-        "grp.Tasmanian",
-        325
-      ],
-      [
-        "grp.KlondikeSolitaire",
-        2
-      ],
-      [
-        "grp.Easthaven1",
-        1
-      ],
-      [
-        "grp.Czarina",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Twelec101\/",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "UralterVater8",
-    "scores" : [
-      [
-        "grp.FourSeasons",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "VeredaFuerte32",
-    "scores" : [
-      [
-        "grp.Martha",
-        35
-      ],
-      [
-        "grp.Klondike.1S",
-        6322
-      ],
-      [
-        "grp.Klondike.1T",
-        142
-      ]
-    ]
-  },
-  {
-    "alias" : "Versace Vibes",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "VladFein",
-    "scores" : [
-      [
-        "grp.BigBen",
-        6
-      ],
-      [
-        "grp.FourSeasons",
-        1
-      ],
-      [
-        "grp.BakersDozen",
-        6
-      ],
-      [
-        "grp.Osmosis",
-        6
-      ],
-      [
-        "grp.SpanishPatience",
-        2
-      ],
-      [
-        "grp.Castles",
-        2
-      ],
-      [
-        "grp.Martha",
-        23
-      ],
-      [
-        "grp.Canberra",
-        2
-      ],
-      [
-        "grp.Tasmanian",
-        9
-      ],
-      [
-        "grp.RoyalParade",
-        29
-      ],
-      [
-        "grp.RussianSolitaire2",
-        33
-      ],
-      [
-        "grp.BlueMoon",
-        4
-      ],
-      [
-        "grp.AlgerianS",
-        5
-      ],
-      [
-        "grp.AlgerianR",
-        19
-      ],
-      [
-        "grp.Klondike.1S",
-        4798
-      ],
-      [
-        "grp.Klondike.3S",
-        6260
-      ],
-      [
-        "grp.Klondike.1T",
-        167
-      ],
-      [
-        "grp.Klondike.3T",
-        126
-      ],
-      [
-        "grp.Klondike.VS",
-        1240
-      ],
-      [
-        "grp.Olymp",
+        "bluemoon",
         7
       ],
       [
-        "grp.CrazyQuilt1",
-        3
-      ],
-      [
-        "grp.CrazyQuilt2",
-        4
-      ],
-      [
-        "grp.JosephineR",
-        51
-      ],
-      [
-        "grp.NapoleonS",
-        1
-      ],
-      [
-        "grp.NapoleonR",
-        51
-      ],
-      [
-        "grp.Easthaven3",
-        2
-      ],
-      [
-        "grp.Easthaven2",
-        11
-      ],
-      [
-        "grp.GFClock",
-        38
-      ],
-      [
-        "grp.Czarina",
-        28
-      ]
-    ]
-  },
-  {
-    "alias" : "Warbling Asp 937",
-    "scores" : [
-      [
-        "grp.FourSeasons",
-        23
-      ]
-    ]
-  },
-  {
-    "alias" : "Wil en Hans",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "WittyWarden4671",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "Wiwiii_Goose",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        38
-      ]
-    ]
-  },
-  {
-    "alias" : "Woodakid1711",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "WrinkledMare4403",
-    "scores" : [
-      [
-        "grp.Clock",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "Wug50",
-    "scores" : [
-      [
-        "grp.Canberra",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "YG Jee",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
-        18
-      ]
-    ]
-  },
-  {
-    "alias" : "Yasmindi From Queenstown",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "Yennie2000 26",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        9
-      ]
-    ]
-  },
-  {
-    "alias" : "Zealous Exterminator 229",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        65
-      ],
-      [
-        "grp.MonteCarlo",
-        1
-      ],
-      [
-        "grp.GFClock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "Zenxara",
-    "scores" : [
-      [
-        "grp.BigBen",
-        18
-      ],
-      [
-        "grp.FourSeasons",
-        2
-      ],
-      [
-        "grp.BakersDozen",
-        1
-      ],
-      [
-        "grp.CrazyQuilt2",
-        182
-      ]
-    ]
-  },
-  {
-    "alias" : "Zoeyquiggle",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        13
-      ]
-    ]
-  },
-  {
-    "alias" : "Zzzzzzzzzz 62",
-    "scores" : [
-      [
-        "grp.Olymp",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "[^josh+47^]",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        7
-      ]
-    ]
-  },
-  {
-    "alias" : "_:Pete 63:_",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        73
-      ]
-    ]
-  },
-  {
-    "alias" : "__Crazy80__",
-    "scores" : [
-      [
-        "grp.Clock",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "_bahar_**",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        29
-      ]
-    ]
-  },
-  {
-    "alias" : "adrianna p535",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        31
-      ]
-    ]
-  },
-  {
-    "alias" : "alex07052004",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        12
-      ]
-    ]
-  },
-  {
-    "alias" : "alexalexalex77",
-    "scores" : [
-      [
-        "grp.JosephineR",
-        61
-      ],
-      [
-        "grp.NapoleonR",
-        60
-      ]
-    ]
-  },
-  {
-    "alias" : "apple&almonds",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        9
-      ],
-      [
-        "grp.AlgerianR",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "arson_ist",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        1
-      ],
-      [
-        "grp.CrazyQuilt2",
+        "yukon",
         161
       ]
     ]
   },
   {
-    "alias" : "ash12 34",
-    "scores" : [
+    "a" : "BluntestOx6332",
+    "s" : [
       [
-        "grp.Osmosis",
+        "clock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Boots The Dinosaur",
+    "s" : [
+      [
+        "indiancarpet",
+        20
+      ]
+    ]
+  },
+  {
+    "a" : "Brenda$46",
+    "s" : [
+      [
+        "osmosis",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "BrightUrchin1506",
+    "s" : [
+      [
+        "crazyquilt",
         3
       ]
     ]
   },
   {
-    "alias" : "autreyrob",
-    "scores" : [
+    "a" : "Brooke212000",
+    "s" : [
       [
-        "grp.CrazyQuilt2",
+        "clock",
+        1
+      ],
+      [
+        "martha",
+        4
+      ],
+      [
+        "mountolympus",
+        3
+      ],
+      [
+        "grandfathersclock",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "BrownGurl776",
+    "s" : [
+      [
+        "castlesinspain",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "BuffaloGal830",
+    "s" : [
+      [
+        "osmosis",
+        24
+      ],
+      [
+        "royalparade",
+        26
+      ],
+      [
+        "russian",
         2
       ]
     ]
   },
   {
-    "alias" : "awhow",
-    "scores" : [
+    "a" : "BulkyImp2870",
+    "s" : [
       [
-        "grp.BlueMoon",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "beckyymilligan",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "btonchav",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1
+        "crazyquilt",
+        6
       ],
       [
-        "grp.AlgerianR",
-        200
+        "indiancarpet",
+        80
       ]
     ]
   },
   {
-    "alias" : "bubbageek",
-    "scores" : [
+    "a" : "Bwalzyy",
+    "s" : [
       [
-        "grp.JosephineR",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "buus\/\/",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        7690
-      ],
-      [
-        "grp.Klondike.1T",
-        99
-      ]
-    ]
-  },
-  {
-    "alias" : "catmac1016",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        12
-      ]
-    ]
-  },
-  {
-    "alias" : "cha.mcg",
-    "scores" : [
-      [
-        "grp.Australian",
-        10
-      ]
-    ]
-  },
-  {
-    "alias" : "cheyenne9525",
-    "scores" : [
-      [
-        "grp.GFClock",
+        "osmosis",
         6
       ]
     ]
   },
   {
-    "alias" : "cjk1003",
-    "scores" : [
+    "a" : "BüyükSamur54",
+    "s" : [
       [
-        "grp.Osmosis",
-        10
+        "napoleon.r",
+        32
       ]
     ]
   },
   {
-    "alias" : "conjobs",
-    "scores" : [
+    "a" : "CARLA IS GREAT",
+    "s" : [
       [
-        "grp.Australian",
+        "russian",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "CATWolfLightning",
+    "s" : [
+      [
+        "tasmanian",
+        44
+      ]
+    ]
+  },
+  {
+    "a" : "CCC1958",
+    "s" : [
+      [
+        "crazyquilt",
+        1
+      ],
+      [
+        "indiancarpet",
+        149
+      ]
+    ]
+  },
+  {
+    "a" : "CN-Vapegirl233",
+    "s" : [
+      [
+        "klondike",
+        2
+      ],
+      [
+        "klondike.3",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Caleigh Rupert",
+    "s" : [
+      [
+        "canberra",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Candaceboom",
+    "s" : [
+      [
+        "osmosis",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "CapacRaimi",
+    "s" : [
+      [
+        "martha",
+        1
+      ],
+      [
+        "3",
+        4452
+      ]
+    ]
+  },
+  {
+    "a" : "Carms31904",
+    "s" : [
+      [
+        "osmosis",
         5
       ]
     ]
   },
   {
-    "alias" : "crawfe333",
-    "scores" : [
+    "a" : "Cav1500",
+    "s" : [
       [
-        "grp.Osmosis",
-        16
-      ]
-    ]
-  },
-  {
-    "alias" : "crostat50",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        13
-      ]
-    ]
-  },
-  {
-    "alias" : "darterwv",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        45
-      ]
-    ]
-  },
-  {
-    "alias" : "darthsydan",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        25
-      ]
-    ]
-  },
-  {
-    "alias" : "dashiell.co",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        3428
-      ],
-      [
-        "grp.Klondike.1T",
-        257
-      ]
-    ]
-  },
-  {
-    "alias" : "dave99336",
-    "scores" : [
-      [
-        "grp.RussianSolitaire2",
-        1106
-      ]
-    ]
-  },
-  {
-    "alias" : "dazz3l",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        110
-      ]
-    ]
-  },
-  {
-    "alias" : "dccccool",
-    "scores" : [
-      [
-        "grp.Klondike.1T",
-        248
-      ],
-      [
-        "grp.Klondike.3T",
-        239
-      ],
-      [
-        "grp.Klondike.VS",
-        208
-      ]
-    ]
-  },
-  {
-    "alias" : "desm0377",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "diesel18",
-    "scores" : [
-      [
-        "grp.Klondike.3S",
-        1397
-      ],
-      [
-        "grp.Klondike.3T",
-        1011
-      ]
-    ]
-  },
-  {
-    "alias" : "dilarss",
-    "scores" : [
-      [
-        "grp.FourSeasons",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "dragnwon",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "elvis010101",
-    "scores" : [
-      [
-        "grp.NapoleonR",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "foxykazoo",
-    "scores" : [
-      [
-        "grp.MonteCarlo",
-        9
-      ]
-    ]
-  },
-  {
-    "alias" : "frostyjen68",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        14
-      ]
-    ]
-  },
-  {
-    "alias" : "fthamideh",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        4368
-      ],
-      [
-        "grp.Klondike.1T",
-        185
-      ]
-    ]
-  },
-  {
-    "alias" : "g_m_johnston",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        9
-      ]
-    ]
-  },
-  {
-    "alias" : "gelz1",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "gigliotti2012",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        17
-      ]
-    ]
-  },
-  {
-    "alias" : "gnoc",
-    "scores" : [
-      [
-        "grp.Australian",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "gra mca",
-    "scores" : [
-      [
-        "grp.Clock",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "gunnernate",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        42
-      ]
-    ]
-  },
-  {
-    "alias" : "gwanciu",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
-        38
-      ]
-    ]
-  },
-  {
-    "alias" : "halsdon36",
-    "scores" : [
-      [
-        "grp.Australian",
-        158
-      ]
-    ]
-  },
-  {
-    "alias" : "hkabou",
-    "scores" : [
-      [
-        "grp.Australian",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "hollyfogel9",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        41
-      ]
-    ]
-  },
-  {
-    "alias" : "honey badger 529",
-    "scores" : [
-      [
-        "grp.Clock",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "iNubz2o5",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "iawa1437",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "iimagineer",
-    "scores" : [
-      [
-        "grp.Klondike.3S",
-        4572
-      ],
-      [
-        "grp.Klondike.1T",
-        117
-      ],
-      [
-        "grp.Klondike.3T",
-        178
-      ],
-      [
-        "grp.Klondike.VS",
-        389
-      ]
-    ]
-  },
-  {
-    "alias" : "imre.oros",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        3462
-      ],
-      [
-        "grp.Klondike.3S",
-        3855
-      ],
-      [
-        "grp.Klondike.1T",
-        252
-      ],
-      [
-        "grp.Klondike.3T",
-        215
-      ]
-    ]
-  },
-  {
-    "alias" : "ingmat",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        16
-      ]
-    ]
-  },
-  {
-    "alias" : "irina-65",
-    "scores" : [
-      [
-        "grp.Easthaven1",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "jackinay",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "jake1goldie",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        37
-      ]
-    ]
-  },
-  {
-    "alias" : "jb61",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
-        13
-      ]
-    ]
-  },
-  {
-    "alias" : "jeannot114",
-    "scores" : [
-      [
-        "grp.FourSeasons",
-        7
-      ]
-    ]
-  },
-  {
-    "alias" : "jellohamster",
-    "scores" : [
-      [
-        "grp.BakersDozen",
-        1
-      ],
-      [
-        "grp.Osmosis",
-        1
-      ],
-      [
-        "grp.MonteCarlo",
-        6
-      ],
-      [
-        "grp.SpanishPatience",
-        1
-      ],
-      [
-        "grp.Castles",
-        1
-      ],
-      [
-        "grp.Martha",
-        2
-      ],
-      [
-        "grp.Australian",
-        2
-      ],
-      [
-        "grp.RoyalParade",
-        28
-      ],
-      [
-        "grp.RussianSolitaire2",
-        13
-      ],
-      [
-        "grp.BlueMoon",
-        7
-      ],
-      [
-        "grp.KlondikeSolitaire",
-        1
-      ],
-      [
-        "grp.Olymp",
-        1
-      ],
-      [
-        "grp.CrazyQuilt2",
-        13
-      ],
-      [
-        "grp.NapoleonR",
-        2
-      ],
-      [
-        "grp.GFClock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "jenchast2",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        7026
-      ],
-      [
-        "grp.Klondike.1T",
-        111
-      ]
-    ]
-  },
-  {
-    "alias" : "joebutts333",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        42
-      ]
-    ]
-  },
-  {
-    "alias" : "jujjujuj22",
-    "scores" : [
-      [
-        "grp.BakersDozen",
-        18
-      ]
-    ]
-  },
-  {
-    "alias" : "jz4242",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "katten som inte gillar fiskar",
-    "scores" : [
-      [
-        "grp.MonteCarlo",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "kayaksalad",
-    "scores" : [
-      [
-        "grp.Easthaven1",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "kbyrf",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "keepkalmz",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        51
-      ]
-    ]
-  },
-  {
-    "alias" : "kkkathyy",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "lcbr",
-    "scores" : [
-      [
-        "grp.KlondikeSolitaire",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "lilia.ryerson",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        3503
-      ],
-      [
-        "grp.Klondike.1T",
-        251
-      ],
-      [
-        "grp.Klondike.VS",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "liz21biz",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        132
-      ]
-    ]
-  },
-  {
-    "alias" : "lynncat1967",
-    "scores" : [
-      [
-        "grp.Clock",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "marwel 64",
-    "scores" : [
-      [
-        "grp.MonteCarlo",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "me6315",
-    "scores" : [
-      [
-        "grp.Australian",
-        11
-      ]
-    ]
-  },
-  {
-    "alias" : "medinauta",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        1631
-      ],
-      [
-        "grp.Klondike.1T",
-        585
-      ]
-    ]
-  },
-  {
-    "alias" : "megancturner",
-    "scores" : [
-      [
-        "grp.RussianSolitaire2",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "mekkado",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        108
-      ]
-    ]
-  },
-  {
-    "alias" : "meps737",
-    "scores" : [
-      [
-        "grp.Canberra",
-        1906
-      ]
-    ]
-  },
-  {
-    "alias" : "milissagrace",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        23
-      ]
-    ]
-  },
-  {
-    "alias" : "mimimimi:o)",
-    "scores" : [
-      [
-        "grp.Australian",
-        459
-      ]
-    ]
-  },
-  {
-    "alias" : "mjj101179",
-    "scores" : [
-      [
-        "grp.GFClock",
-        12
-      ]
-    ]
-  },
-  {
-    "alias" : "ml123 22",
-    "scores" : [
-      [
-        "grp.Castles",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "mskaPO",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        13
-      ]
-    ]
-  },
-  {
-    "alias" : "mssurora",
-    "scores" : [
-      [
-        "grp.CrazyQuilt2",
-        22
-      ]
-    ]
-  },
-  {
-    "alias" : "mudpetunia",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        4
-      ]
-    ]
-  },
-  {
-    "alias" : "mum24kidz",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "múdry kôň",
-    "scores" : [
-      [
-        "grp.Australian",
-        16
-      ]
-    ]
-  },
-  {
-    "alias" : "nelanjen",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "nikita_0.0",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "notonia",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "onaka hetta",
-    "scores" : [
-      [
-        "grp.Australian",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "other9421ify",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "paytonann22",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        9
-      ]
-    ]
-  },
-  {
-    "alias" : "peanutcela",
-    "scores" : [
-      [
-        "grp.Australian",
+        "castlesinspain",
         30
       ]
     ]
   },
   {
-    "alias" : "pilotootto",
-    "scores" : [
+    "a" : "Chickeneaster",
+    "s" : [
       [
-        "grp.Klondike.1S",
-        2630
-      ],
-      [
-        "grp.Klondike.1T",
-        349
+        "klondike",
+        3
       ]
     ]
   },
   {
-    "alias" : "pinkhare💕",
-    "scores" : [
+    "a" : "ClawedQuester7538",
+    "s" : [
       [
-        "grp.Australian",
-        121
-      ]
-    ]
-  },
-  {
-    "alias" : "poodle-incus",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        7
-      ]
-    ]
-  },
-  {
-    "alias" : "pookiehop",
-    "scores" : [
-      [
-        "grp.CrazyQuilt1",
-        1
-      ],
-      [
-        "grp.CrazyQuilt2",
-        25
-      ]
-    ]
-  },
-  {
-    "alias" : "raacchhh",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        8
-      ]
-    ]
-  },
-  {
-    "alias" : "rachelbrooke07",
-    "scores" : [
-      [
-        "grp.MonteCarlo",
-        1
-      ],
-      [
-        "grp.Klondike.1S",
-        1084
-      ],
-      [
-        "grp.Klondike.1T",
-        680
-      ]
-    ]
-  },
-  {
-    "alias" : "renee3361",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        6
-      ]
-    ]
-  },
-  {
-    "alias" : "rj3711",
-    "scores" : [
-      [
-        "grp.Osmosis",
+        "czarina",
         1
       ]
     ]
   },
   {
-    "alias" : "rubyredford 5",
-    "scores" : [
+    "a" : "CleanMoose3483",
+    "s" : [
       [
-        "grp.NapoleonR",
-        197
+        "algerian",
+        21
       ]
     ]
   },
   {
-    "alias" : "s4ra76",
-    "scores" : [
+    "a" : "Climbing Savage 470",
+    "s" : [
       [
-        "grp.CrazyQuilt1",
+        "australian",
         1
       ]
     ]
   },
   {
-    "alias" : "sammieiy_",
-    "scores" : [
+    "a" : "Conquérant hurleur de Napata",
+    "s" : [
       [
-        "grp.CrazyQuilt1",
+        "royalparade",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "CopperJester800",
+    "s" : [
+      [
+        "clock",
         1
       ]
     ]
   },
   {
-    "alias" : "sarah 🐰💜",
-    "scores" : [
+    "a" : "Cosmomausi",
+    "s" : [
       [
-        "grp.Osmosis",
-        24
+        "algerian",
+        61
       ]
     ]
   },
   {
-    "alias" : "scarlet834",
-    "scores" : [
+    "a" : "Courtney Rearick",
+    "s" : [
       [
-        "grp.Osmosis",
-        11
+        "osmosis",
+        1
       ]
     ]
   },
   {
-    "alias" : "scentsygirl62",
-    "scores" : [
+    "a" : "Craaby_",
+    "s" : [
       [
-        "grp.Clock",
-        6
+        "osmosis",
+        1
       ]
     ]
   },
   {
-    "alias" : "scrappysuzyq",
-    "scores" : [
+    "a" : "DBCRB",
+    "s" : [
       [
-        "grp.Osmosis",
+        "osmosis",
+        45
+      ]
+    ]
+  },
+  {
+    "a" : "Da Top Dog 29",
+    "s" : [
+      [
+        "canberra",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "Dalya🌸",
+    "s" : [
+      [
+        "royalparade",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "DannyRayday",
+    "s" : [
+      [
+        "klondike",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Darkest Asp 854",
+    "s" : [
+      [
+        "russian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Debbie293949",
+    "s" : [
+      [
+        "australian",
         36
       ]
     ]
   },
   {
-    "alias" : "sfgjkufcb",
-    "scores" : [
+    "a" : "Determined Owl of Massive Hill",
+    "s" : [
       [
-        "grp.Osmosis",
-        9
-      ]
-    ]
-  },
-  {
-    "alias" : "sghiemer",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        13
-      ]
-    ]
-  },
-  {
-    "alias" : "sgjj18",
-    "scores" : [
-      [
-        "grp.RoyalParade",
+        "osmosis",
         1
       ]
     ]
   },
   {
-    "alias" : "sglanders",
-    "scores" : [
+    "a" : "Dimber01",
+    "s" : [
       [
-        "grp.Martha",
-        4
-      ],
-      [
-        "grp.Tasmanian",
-        2
-      ],
-      [
-        "grp.NapoleonR",
+        "australian",
         1
       ]
     ]
   },
   {
-    "alias" : "shanan",
-    "scores" : [
+    "a" : "Disco Panda of the Dos Manos",
+    "s" : [
       [
-        "grp.Osmosis",
-        59
+        "martha",
+        299
       ]
     ]
   },
   {
-    "alias" : "shelly7200",
-    "scores" : [
+    "a" : "Divine Gaoler 27",
+    "s" : [
       [
-        "grp.Osmosis",
-        16
-      ]
-    ]
-  },
-  {
-    "alias" : "sirj1",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        18
-      ]
-    ]
-  },
-  {
-    "alias" : "slytherin_girl2004",
-    "scores" : [
-      [
-        "grp.Clock",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "smhaenggi",
-    "scores" : [
-      [
-        "grp.Australian",
-        19
-      ],
-      [
-        "grp.Tasmanian",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "sniesse",
-    "scores" : [
-      [
-        "grp.JosephineR",
-        49
-      ]
-    ]
-  },
-  {
-    "alias" : "somethingbroome",
-    "scores" : [
-      [
-        "grp.Tasmanian",
-        197
-      ],
-      [
-        "grp.AlgerianR",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "spartakus42",
-    "scores" : [
-      [
-        "grp.Australian",
-        312
-      ]
-    ]
-  },
-  {
-    "alias" : "stofjess",
-    "scores" : [
-      [
-        "grp.Australian",
+        "royalparade",
         3
       ]
     ]
   },
   {
-    "alias" : "swf47",
-    "scores" : [
+    "a" : "DivinePanda2315",
+    "s" : [
       [
-        "grp.Clock",
-        8
+        "australian",
+        5
       ]
     ]
   },
   {
-    "alias" : "tambotheterrible",
-    "scores" : [
+    "a" : "DivingFish6860",
+    "s" : [
       [
-        "grp.CrazyQuilt2",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "thaikickass88",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        3656
-      ],
-      [
-        "grp.Klondike.1T",
-        234
-      ]
-    ]
-  },
-  {
-    "alias" : "theputer",
-    "scores" : [
-      [
-        "grp.BigBen",
+        "indiancarpet",
         1
       ]
     ]
   },
   {
-    "alias" : "theshug",
-    "scores" : [
+    "a" : "DivingGoose906",
+    "s" : [
       [
-        "grp.Clock",
+        "bigben",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "DivingKhan887",
+    "s" : [
+      [
+        "klondike.3",
         2
       ]
     ]
   },
   {
-    "alias" : "thomas_59#",
-    "scores" : [
+    "a" : "Does Anybody Care",
+    "s" : [
       [
-        "grp.Canberra",
-        8
-      ],
-      [
-        "grp.Tasmanian",
+        "clock",
         1
       ]
     ]
   },
   {
-    "alias" : "trashgoose",
-    "scores" : [
+    "a" : "Dogwood000",
+    "s" : [
       [
-        "grp.Osmosis",
-        8
+        "australian",
+        45
       ]
     ]
   },
   {
-    "alias" : "trekletrex",
-    "scores" : [
+    "a" : "Dominge Bracampo",
+    "s" : [
       [
-        "grp.CrazyQuilt1",
-        9
+        "indiancarpet",
+        3
       ]
     ]
   },
   {
-    "alias" : "twinsgran",
-    "scores" : [
+    "a" : "Dominic🌚👽🐸",
+    "s" : [
       [
-        "grp.AlgerianS",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "uhu50",
-    "scores" : [
-      [
-        "grp.AlgerianS",
+        "bakersdozen",
         1
       ]
     ]
   },
   {
-    "alias" : "vog112",
-    "scores" : [
+    "a" : "Drab Overseer from Navy Shore",
+    "s" : [
       [
-        "grp.JosephineR",
-        298
+        "algerian",
+        29
       ]
     ]
   },
   {
-    "alias" : "w0rm62",
-    "scores" : [
+    "a" : "DrabGaoler1950",
+    "s" : [
       [
-        "grp.Osmosis",
+        "easthaven.r",
+        1412
+      ]
+    ]
+  },
+  {
+    "a" : "Drew MacLennan",
+    "s" : [
+      [
+        "osmosis",
+        28
+      ]
+    ]
+  },
+  {
+    "a" : "Easy Ghoul from Puce Forest",
+    "s" : [
+      [
+        "fourseasons",
         25
       ]
     ]
   },
   {
-    "alias" : "wraith hammer",
-    "scores" : [
+    "a" : "EbullientSue",
+    "s" : [
       [
-        "grp.Osmosis",
-        16
+        "osmosis",
+        335
       ]
     ]
   },
   {
-    "alias" : "xtinamars",
-    "scores" : [
+    "a" : "EllaR2204",
+    "s" : [
       [
-        "grp.Osmosis",
-        2
-      ]
-    ]
-  },
-  {
-    "alias" : "zozojohn",
-    "scores" : [
-      [
-        "grp.RoyalParade",
-        147
-      ]
-    ]
-  },
-  {
-    "alias" : "{Doc 1}",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        75
-      ]
-    ]
-  },
-  {
-    "alias" : "~ * honeybee * ~",
-    "scores" : [
-      [
-        "grp.Osmosis",
-        3
-      ]
-    ]
-  },
-  {
-    "alias" : "ВодныйОгонек56",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "Маргарина2",
-    "scores" : [
-      [
-        "grp.AlgerianS",
-        72
-      ]
-    ]
-  },
-  {
-    "alias" : "عين في جبل الشوك",
-    "scores" : [
-      [
-        "grp.NapoleonR",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "وردة متحذلقة 70",
-    "scores" : [
-      [
-        "grp.Martha",
+        "indiancarpet",
         5
       ]
     ]
   },
   {
-    "alias" : "•Speed•Racer•",
-    "scores" : [
+    "a" : "Emaggie8899",
+    "s" : [
       [
-        "grp.Martha",
+        "australian",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "Engel des hellen Bergs",
+    "s" : [
+      [
+        "australian",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "Evemar60",
+    "s" : [
+      [
+        "napoleon",
+        69
+      ],
+      [
+        "napoleon.r",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "Fast as fluff",
+    "s" : [
+      [
+        "osmosis",
+        69
+      ]
+    ]
+  },
+  {
+    "a" : "FierceMare3805",
+    "s" : [
+      [
+        "australian",
+        250
+      ]
+    ]
+  },
+  {
+    "a" : "FierceOryx366",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Foolish Goose of Black Moat",
+    "s" : [
+      [
+        "clock",
         4
       ]
     ]
   },
   {
-    "alias" : "•TJDa’Man•",
-    "scores" : [
+    "a" : "Fozzy1117",
+    "s" : [
       [
-        "grp.Osmosis",
-        5
+        "osmosis",
+        198
       ]
     ]
   },
   {
-    "alias" : "呆荫索隆",
-    "scores" : [
+    "a" : "FrankArtist5955",
+    "s" : [
       [
-        "grp.Klondike.1T",
-        206
-      ],
-      [
-        "grp.Klondike.VS",
-        191
-      ]
-    ]
-  },
-  {
-    "alias" : "学霸稍微傲娇8",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        4596
-      ],
-      [
-        "grp.Klondike.1T",
-        168
-      ]
-    ]
-  },
-  {
-    "alias" : "牛排就想去昆仑山跳绳",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        6265
-      ],
-      [
-        "grp.Klondike.1T",
-        126
-      ]
-    ]
-  },
-  {
-    "alias" : "的阳2007",
-    "scores" : [
-      [
-        "grp.Klondike.3S",
-        8592
-      ],
-      [
-        "grp.Klondike.3T",
-        174
-      ]
-    ]
-  },
-  {
-    "alias" : "聪哥",
-    "scores" : [
-      [
-        "grp.Klondike.VS",
+        "royalparade",
         3
       ]
     ]
   },
   {
-    "alias" : "飄逸天真機師",
-    "scores" : [
+    "a" : "Frau Muttie",
+    "s" : [
       [
-        "grp.BakersDozen",
-        5
-      ]
-    ]
-  },
-  {
-    "alias" : "香蕉-不拿拿",
-    "scores" : [
-      [
-        "grp.Klondike.1S",
-        26455
+        "castlesinspain",
+        3
       ],
       [
-        "grp.Klondike.3S",
-        4979
-      ],
-      [
-        "grp.Klondike.1T",
-        27
-      ],
-      [
-        "grp.Klondike.3T",
-        163
-      ]
-    ]
-  },
-  {
-    "alias" : "네임 11",
-    "scores" : [
-      [
-        "grp.RussianSolitaire2",
-        1
-      ]
-    ]
-  },
-  {
-    "alias" : "핑크시아",
-    "scores" : [
-      [
-        "grp.BakersDozen",
-        1
-      ],
-      [
-        "grp.Canberra",
+        "klondike",
         2
       ]
     ]
   },
   {
-    "alias" : "하갓냐의 바늘",
-    "scores" : [
+    "a" : "FunnyUndead4932",
+    "s" : [
       [
-        "grp.Osmosis",
-        1
-      ],
+        "osmosis",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "FurieSereine941",
+    "s" : [
       [
-        "grp.Olymp",
+        "crazyquilt",
+        17
+      ]
+    ]
+  },
+  {
+    "a" : "GL7982",
+    "s" : [
+      [
+        "royalparade",
         1
       ]
     ]
   },
   {
-    "alias" : "🦖TĐạtt🇻🇳",
-    "scores" : [
+    "a" : "Galley_Slave",
+    "s" : [
       [
-        "grp.Klondike.VS",
+        "indiancarpet",
+        146
+      ]
+    ]
+  },
+  {
+    "a" : "Gamer🦋",
+    "s" : [
+      [
+        "castlesinspain",
+        2
+      ],
+      [
+        "citadel",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "GappySeal7553",
+    "s" : [
+      [
+        "fourseasons",
+        14
+      ]
+    ]
+  },
+  {
+    "a" : "GatorJim 75",
+    "s" : [
+      [
+        "osmosis",
+        143
+      ]
+    ]
+  },
+  {
+    "a" : "GiantMoose4785",
+    "s" : [
+      [
+        "castlesinspain",
+        2
+      ],
+      [
+        "tripeaks.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Girafa1814",
+    "s" : [
+      [
+        "easthaven.r",
+        86
+      ]
+    ]
+  },
+  {
+    "a" : "Gladaloket40",
+    "s" : [
+      [
+        "clock",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Glimmerman1978",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Golden Protector 70",
+    "s" : [
+      [
+        "crazyquilt",
+        6
+      ],
+      [
+        "indiancarpet",
+        24
+      ]
+    ]
+  },
+  {
+    "a" : "GrayGunner9579",
+    "s" : [
+      [
+        "royalparade",
+        21
+      ]
+    ]
+  },
+  {
+    "a" : "GraySeer134",
+    "s" : [
+      [
+        "bluemoon",
+        50
+      ],
+      [
+        "crazyquilt",
+        3
+      ],
+      [
+        "indiancarpet",
+        189
+      ]
+    ]
+  },
+  {
+    "a" : "Great Programmer 520",
+    "s" : [
+      [
+        "osmosis",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "GreatGunner2580",
+    "s" : [
+      [
+        "royalparade",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "GreatSlug876",
+    "s" : [
+      [
+        "australian",
+        4
+      ],
+      [
+        "canberra",
+        45
+      ],
+      [
+        "tasmanian",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "GreenDjinn2819",
+    "s" : [
+      [
+        "montecarlo",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "GreySapper6027",
+    "s" : [
+      [
+        "clock",
+        17
+      ]
+    ]
+  },
+  {
+    "a" : "GrimKnight5328",
+    "s" : [
+      [
+        "klondike",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "Grlgaun2",
+    "s" : [
+      [
+        "indiancarpet",
+        18
+      ]
+    ]
+  },
+  {
+    "a" : "Grumpy-pa",
+    "s" : [
+      [
+        "castlesinspain",
+        191
+      ]
+    ]
+  },
+  {
+    "a" : "HairyBarber4327",
+    "s" : [
+      [
+        "australian",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "HairyCondor3525",
+    "s" : [
+      [
+        "australian",
+        33
+      ]
+    ]
+  },
+  {
+    "a" : "HairyMentor3150",
+    "s" : [
+      [
+        "clock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "HappySnake2690",
+    "s" : [
+      [
+        "osmosis",
+        106
+      ]
+    ]
+  },
+  {
+    "a" : "Hechizo fuego",
+    "s" : [
+      [
+        "klondike",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Heroic Overseer 613",
+    "s" : [
+      [
+        "osmosis",
+        53
+      ]
+    ]
+  },
+  {
+    "a" : "HeroicWizard6590",
+    "s" : [
+      [
+        "klondike",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "HiddenSnake3344",
+    "s" : [
+      [
+        "bakersdozen",
+        166
+      ]
+    ]
+  },
+  {
+    "a" : "HidingGiant1062",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ],
+      [
+        "tripeaks.r",
+        10
+      ]
+    ]
+  },
+  {
+    "a" : "HisKid2226",
+    "s" : [
+      [
+        "crazyquilt",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "HiwaRahman1",
+    "s" : [
+      [
+        "napoleon.r",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "HumbleMoose9481",
+    "s" : [
+      [
+        "royalparade",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Hypnotic Burglar 101",
+    "s" : [
+      [
+        "osmosis",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "I-Autom8",
+    "s" : [
+      [
+        "canberra",
+        1
+      ],
+      [
+        "tasmanian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "IcyMinotaur2353",
+    "s" : [
+      [
+        "czarina",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Iluvdasouth2",
+    "s" : [
+      [
+        "indiancarpet",
+        82
+      ]
+    ]
+  },
+  {
+    "a" : "Iman Tahsin",
+    "s" : [
+      [
+        "napoleon.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Intelligent Lizard 877",
+    "s" : [
+      [
+        "osmosis",
+        15
+      ]
+    ]
+  },
+  {
+    "a" : "Intelligent Magician 510",
+    "s" : [
+      [
+        "indiancarpet",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "Irishgirl679",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "IronBear7853",
+    "s" : [
+      [
+        "clock",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "Is41021",
+    "s" : [
+      [
+        "algerian",
+        13
+      ]
+    ]
+  },
+  {
+    "a" : "J31146",
+    "s" : [
+      [
+        "mountolympus",
+        7
+      ]
+    ]
+  },
+  {
+    "a" : "Jac Uimurchu",
+    "s" : [
+      [
+        "royalparade",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "Jjghgdcb",
+    "s" : [
+      [
+        "royalparade",
+        13
+      ]
+    ]
+  },
+  {
+    "a" : "Jobje234",
+    "s" : [
+      [
+        "russian",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Jophied",
+    "s" : [
+      [
+        "australian",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "Joquisimo",
+    "s" : [
+      [
+        "martha",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "JoshPasan",
+    "s" : [
+      [
+        "algerian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Jovan Colonyak",
+    "s" : [
+      [
+        "australian",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "K1 N00",
+    "s" : [
+      [
+        "klondike",
+        5
+      ],
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "K2S^><^",
+    "s" : [
+      [
+        "osmosis",
+        119
+      ]
+    ]
+  },
+  {
+    "a" : "KTwo",
+    "s" : [
+      [
+        "martha",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Kajost 99",
+    "s" : [
+      [
+        "osmosis",
+        73
+      ]
+    ]
+  },
+  {
+    "a" : "Karsmok",
+    "s" : [
+      [
+        "osmosis",
+        99
+      ]
+    ]
+  },
+  {
+    "a" : "Katiebug339",
+    "s" : [
+      [
+        "australian",
+        62
+      ]
+    ]
+  },
+  {
+    "a" : "KayGon1189",
+    "s" : [
+      [
+        "osmosis",
+        32
+      ]
+    ]
+  },
+  {
+    "a" : "KeenHippo4196",
+    "s" : [
+      [
+        "fourseasons",
+        74
+      ]
+    ]
+  },
+  {
+    "a" : "Kellybelle5386",
+    "s" : [
+      [
+        "australian",
+        10
+      ]
+    ]
+  },
+  {
+    "a" : "KelsMom84",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Kenzygrl01",
+    "s" : [
+      [
+        "australian",
+        3
+      ],
+      [
+        "royalparade",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Kiana The Discrete Overseer",
+    "s" : [
+      [
+        "clock",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Kiki Hana12",
+    "s" : [
+      [
+        "napoleon.r",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "KindWyvern7844",
+    "s" : [
+      [
+        "australian",
+        251
+      ]
+    ]
+  },
+  {
+    "a" : "Klenaet",
+    "s" : [
+      [
+        "castlesinspain",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "KoukiDoe25",
+    "s" : [
+      [
+        "algerian",
+        24
+      ]
+    ]
+  },
+  {
+    "a" : "LOAYSAX",
+    "s" : [
+      [
+        "klondike",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "LazyRebel2531",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Lee Hore",
+    "s" : [
+      [
+        "clock",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "Lethal Rhodes",
+    "s" : [
+      [
+        "osmosis",
+        17
+      ]
+    ]
+  },
+  {
+    "a" : "Leuchtender Kolibri 51",
+    "s" : [
+      [
+        "algerian",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "Liz la vré",
+    "s" : [
+      [
+        "australian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "LockigeZelia66",
+    "s" : [
+      [
+        "grandfathersclock",
+        142
+      ]
+    ]
+  },
+  {
+    "a" : "Lone Forester from Tiny Castle",
+    "s" : [
+      [
+        "tasmanian",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "LoneRebel6039",
+    "s" : [
+      [
+        "indiancarpet",
+        129
+      ]
+    ]
+  },
+  {
+    "a" : "LordTonychicken",
+    "s" : [
+      [
+        "indiancarpet",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Lord_Gamaranth",
+    "s" : [
+      [
+        "klondike",
+        7
+      ]
+    ]
+  },
+  {
+    "a" : "LouLouBelle333",
+    "s" : [
+      [
+        "osmosis",
+        20
+      ]
+    ]
+  },
+  {
+    "a" : "LucidezPotente1",
+    "s" : [
+      [
+        "napoleon.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "LuckyLizard5788",
+    "s" : [
+      [
+        "czarina",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Lumi_ere_",
+    "s" : [
+      [
+        "australian",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "LurkingMoose1897",
+    "s" : [
+      [
+        "crazyquilt",
+        55
+      ]
+    ]
+  },
+  {
+    "a" : "Lyndsaypan",
+    "s" : [
+      [
+        "osmosis",
+        15
+      ]
+    ]
+  },
+  {
+    "a" : "MadCondor5971",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Maddy081729",
+    "s" : [
+      [
+        "grandfathersclock",
+        12
+      ]
+    ]
+  },
+  {
+    "a" : "Maggles McCollough",
+    "s" : [
+      [
+        "crazyquilt",
+        4
+      ],
+      [
+        "indiancarpet",
+        41
+      ]
+    ]
+  },
+  {
+    "a" : "MakowyStatek71",
+    "s" : [
+      [
+        "royalparade",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Marily47",
+    "s" : [
+      [
+        "royalparade",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Markarnp",
+    "s" : [
+      [
+        "algerian",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Maximo339",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "MedusaEstoica19",
+    "s" : [
+      [
+        "bakersdozen",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "Mesmerizing Puce Lemur",
+    "s" : [
+      [
+        "algerian",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Michy_27",
+    "s" : [
+      [
+        "osmosis",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Midnightsky03",
+    "s" : [
+      [
+        "tasmanian",
+        18
+      ]
+    ]
+  },
+  {
+    "a" : "Mike1959 98",
+    "s" : [
+      [
+        "bigben",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "MinecraftWyat",
+    "s" : [
+      [
+        "clock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Moberhaus21",
+    "s" : [
+      [
+        "crazyquilt",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "Mop5+3",
+    "s" : [
+      [
+        "algerian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "MopingWhiz8624",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Mrfixit2011",
+    "s" : [
+      [
+        "australian",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "Mrs. Wagner 1102",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Msalayneus",
+    "s" : [
+      [
+        "easthaven.r",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Msmon3y",
+    "s" : [
+      [
+        "grandfathersclock",
+        3181
+      ]
+    ]
+  },
+  {
+    "a" : "Mugception",
+    "s" : [
+      [
+        "australian",
+        262
+      ]
+    ]
+  },
+  {
+    "a" : "Mulenga Mulenga",
+    "s" : [
+      [
+        "bakersdozen",
+        558
+      ]
+    ]
+  },
+  {
+    "a" : "NAIFBBBB",
+    "s" : [
+      [
+        "castlesinspain",
+        179
+      ]
+    ]
+  },
+  {
+    "a" : "Nadie913",
+    "s" : [
+      [
+        "osmosis",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Nice Scorpion of Giant Grove",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "OddCajun35",
+    "s" : [
+      [
+        "osmosis",
+        15
+      ]
+    ]
+  },
+  {
+    "a" : "OdysseyGirl55",
+    "s" : [
+      [
+        "napoleon.r",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "P3rk58",
+    "s" : [
+      [
+        "australian",
+        41
+      ]
+    ]
+  },
+  {
+    "a" : "PaulBlartKinnie",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Perennial Favorite Gs",
+    "s" : [
+      [
+        "algerian.r",
+        85
+      ]
+    ]
+  },
+  {
+    "a" : "Phoenix_235",
+    "s" : [
+      [
+        "algerian",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "PjoterT",
+    "s" : [
+      [
+        "algerian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Podunkdeac",
+    "s" : [
+      [
+        "royalparade",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Polkadodge68",
+    "s" : [
+      [
+        "grandfathersclock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "PristineTomcat9724",
+    "s" : [
+      [
+        "clock",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "Prying Builder 904",
+    "s" : [
+      [
+        "castlesinspain",
+        24
+      ]
+    ]
+  },
+  {
+    "a" : "Puce Ayotte 46",
+    "s" : [
+      [
+        "osmosis",
+        42
+      ]
+    ]
+  },
+  {
+    "a" : "Queen of Silly",
+    "s" : [
+      [
+        "osmosis",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "Queer Queen of the Ladies",
+    "s" : [
+      [
+        "algerian",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "QuietRaven4993",
+    "s" : [
+      [
+        "clock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Raffo2006",
+    "s" : [
+      [
+        "algerian",
+        53
+      ]
+    ]
+  },
+  {
+    "a" : "Raklfried",
+    "s" : [
+      [
+        "osmosis",
+        231
+      ]
+    ]
+  },
+  {
+    "a" : "Ramsman1975",
+    "s" : [
+      [
+        "clock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "RasendeSjef29",
+    "s" : [
+      [
+        "algerian",
+        141
+      ]
+    ]
+  },
+  {
+    "a" : "Reggie4nn",
+    "s" : [
+      [
+        "bakersdozen",
+        73
+      ]
+    ]
+  },
+  {
+    "a" : "ReinerClown1967",
+    "s" : [
+      [
+        "algerian",
+        1263
+      ]
+    ]
+  },
+  {
+    "a" : "Relm",
+    "s" : [
+      [
+        "osmosis",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "Respectful Destroyer 987",
+    "s" : [
+      [
+        "algerian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Rosagmcmikhi",
+    "s" : [
+      [
+        "clock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Rst8532",
+    "s" : [
+      [
+        "osmosis",
+        1408
+      ]
+    ]
+  },
+  {
+    "a" : "SGPESP",
+    "s" : [
+      [
+        "crazyquilt",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "STL167",
+    "s" : [
+      [
+        "klondike",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Samneumann909",
+    "s" : [
+      [
+        "australian",
+        13
+      ]
+    ]
+  },
+  {
+    "a" : "Sandy1953:-)",
+    "s" : [
+      [
+        "royalparade",
+        34
+      ]
+    ]
+  },
+  {
+    "a" : "Sanfter Wurm 20",
+    "s" : [
+      [
+        "grandfathersclock",
+        25
+      ]
+    ]
+  },
+  {
+    "a" : "SepiaPython1358",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Shalls60",
+    "s" : [
+      [
+        "osmosis",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "ShyOverseer4168",
+    "s" : [
+      [
+        "osmosis",
+        43
+      ]
+    ]
+  },
+  {
+    "a" : "SiamésCrítico76",
+    "s" : [
+      [
+        "bigben",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Simon55😄",
+    "s" : [
+      [
+        "pyramid",
+        45
+      ],
+      [
+        "bigben",
+        2
+      ],
+      [
+        "bakersdozen",
+        5
+      ],
+      [
+        "osmosis",
+        3
+      ],
+      [
+        "montecarlo",
+        2
+      ],
+      [
+        "spanish",
+        2
+      ],
+      [
+        "martha",
+        5
+      ],
+      [
+        "australian",
+        82
+      ],
+      [
+        "royalparade",
+        5
+      ],
+      [
+        "russian",
+        1
+      ],
+      [
+        "mountolympus",
+        1
+      ],
+      [
+        "easthaven.r",
+        45
+      ],
+      [
+        "grandfathersclock",
+        7
+      ]
+    ]
+  },
+  {
+    "a" : "SincereWhiz2708",
+    "s" : [
+      [
+        "australian",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Sing4kristen",
+    "s" : [
+      [
+        "montecarlo",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "SjSings2",
+    "s" : [
+      [
+        "osmosis",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Skihase🎿",
+    "s" : [
+      [
+        "australian",
+        26
+      ]
+    ]
+  },
+  {
+    "a" : "Sleepiest Pursuer 838",
+    "s" : [
+      [
+        "australian",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "SlowestCrow2283",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Smart Noble from Copper Jungle",
+    "s" : [
+      [
+        "osmosis",
+        14
+      ]
+    ]
+  },
+  {
+    "a" : "Sophie_hi23",
+    "s" : [
+      [
+        "osmosis",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "SquatArcheress8966",
+    "s" : [
+      [
+        "osmosis",
+        32
+      ]
+    ]
+  },
+  {
+    "a" : "StJacque",
+    "s" : [
+      [
+        "australian",
+        36
+      ]
+    ]
+  },
+  {
+    "a" : "Steelyza Dan",
+    "s" : [
+      [
+        "australian",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Suggmeister Supreme",
+    "s" : [
+      [
+        "osmosis",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "SuperLogan29",
+    "s" : [
+      [
+        "clock",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "SuperSapper8226",
+    "s" : [
+      [
+        "indiancarpet",
+        40
+      ]
+    ]
+  },
+  {
+    "a" : "SuperSlugo",
+    "s" : [
+      [
+        "algerian",
+        17
+      ]
+    ]
+  },
+  {
+    "a" : "SuperSpider3236",
+    "s" : [
+      [
+        "osmosis",
+        71
+      ]
+    ]
+  },
+  {
+    "a" : "SurpasserOfGods",
+    "s" : [
+      [
+        "royalparade",
+        10
+      ]
+    ]
+  },
+  {
+    "a" : "Susiemlr",
+    "s" : [
+      [
+        "osmosis",
+        92
+      ]
+    ]
+  },
+  {
+    "a" : "Sweet Caroline Ny",
+    "s" : [
+      [
+        "josephine.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "TNTChicken22",
+    "s" : [
+      [
+        "osmosis",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "TW☻lf",
+    "s" : [
+      [
+        "klondike",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Talking Gaoler of Magenta Lake",
+    "s" : [
+      [
+        "algerian",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "Tanzie75",
+    "s" : [
+      [
+        "royalparade",
+        7
+      ]
+    ]
+  },
+  {
+    "a" : "Tapandtake",
+    "s" : [
+      [
+        "algerian",
+        110
+      ]
+    ]
+  },
+  {
+    "a" : "Tew_18",
+    "s" : [
+      [
+        "australian",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "The Biggest Party Ever",
+    "s" : [
+      [
+        "osmosis",
+        289
+      ]
+    ]
+  },
+  {
+    "a" : "TheCongressGuy",
+    "s" : [
+      [
+        "osmosis",
+        55
+      ]
+    ]
+  },
+  {
+    "a" : "ThinPirate9477",
+    "s" : [
+      [
+        "clock",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Tigwanii",
+    "s" : [
+      [
+        "klondike.3",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "TinyBoggart8846",
+    "s" : [
+      [
+        "russian",
+        1046
+      ]
+    ]
+  },
+  {
+    "a" : "TinyParent4445",
+    "s" : [
+      [
+        "crazyquilt",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "TinySprite9885",
+    "s" : [
+      [
+        "australian",
+        45
+      ]
+    ]
+  },
+  {
+    "a" : "Toadstet",
+    "s" : [
+      [
+        "castlesinspain",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "TopBrass81",
+    "s" : [
+      [
+        "klondike",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Tpmoney10",
+    "s" : [
+      [
+        "osmosis",
+        28
+      ],
+      [
+        "klondike.3",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Tracekeggers",
+    "s" : [
+      [
+        "osmosis",
+        18
+      ]
+    ]
+  },
+  {
+    "a" : "Tutmumien47",
+    "s" : [
+      [
+        "clock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Twanman1412",
+    "s" : [
+      [
+        "bakersdozen",
+        2
+      ],
+      [
+        "spanish",
+        2
+      ],
+      [
+        "castlesinspain",
+        3
+      ],
+      [
+        "martha",
+        2
+      ],
+      [
+        "tasmanian",
+        325
+      ],
+      [
+        "easthaven.r",
+        1
+      ],
+      [
+        "czarina",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Twelec101\/",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "UralterVater8",
+    "s" : [
+      [
+        "fourseasons",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "VeredaFuerte32",
+    "s" : [
+      [
+        "martha",
+        35
+      ],
+      [
+        "klondike",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "Versace Vibes",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "VladFein",
+    "s" : [
+      [
+        "yukon",
+        9
+      ],
+      [
+        "tripeaks.r",
+        10
+      ],
+      [
+        "tripeaks",
+        7
+      ],
+      [
+        "pyramid",
+        19
+      ],
+      [
+        "freecell",
+        42
+      ],
+      [
+        "freecell_s",
+        34
+      ],
+      [
+        "bigben",
+        6
+      ],
+      [
+        "fourseasons",
+        1
+      ],
+      [
+        "bakersdozen",
+        6
+      ],
+      [
+        "osmosis",
+        6
+      ],
+      [
+        "spanish",
+        2
+      ],
+      [
+        "castlesinspain",
+        2
+      ],
+      [
+        "citadel",
+        9
+      ],
+      [
+        "martha",
+        23
+      ],
+      [
+        "canberra",
+        2
+      ],
+      [
+        "tasmanian",
+        9
+      ],
+      [
+        "royalparade",
+        29
+      ],
+      [
+        "russian",
+        33
+      ],
+      [
+        "bluemoon",
+        4
+      ],
+      [
+        "algerian",
+        5
+      ],
+      [
+        "algerian.r",
+        19
+      ],
+      [
+        "klondike",
+        3
+      ],
+      [
+        "klondike.3",
+        4
+      ],
+      [
+        "mountolympus",
+        7
+      ],
+      [
+        "crazyquilt",
+        3
+      ],
+      [
+        "indiancarpet",
+        4
+      ],
+      [
+        "josephine.r",
+        51
+      ],
+      [
+        "napoleon",
+        1
+      ],
+      [
+        "napoleon.r",
+        51
+      ],
+      [
+        "easthaven.3.r",
+        2
+      ],
+      [
+        "easthaven.2.r",
+        11
+      ],
+      [
+        "grandfathersclock",
         38
+      ],
+      [
+        "czarina",
+        28
+      ]
+    ]
+  },
+  {
+    "a" : "Warbling Asp 937",
+    "s" : [
+      [
+        "fourseasons",
+        23
+      ]
+    ]
+  },
+  {
+    "a" : "Wil en Hans",
+    "s" : [
+      [
+        "algerian",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "WittyWarden4671",
+    "s" : [
+      [
+        "royalparade",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "Wiwiii_Goose",
+    "s" : [
+      [
+        "osmosis",
+        38
+      ]
+    ]
+  },
+  {
+    "a" : "Woodakid1711",
+    "s" : [
+      [
+        "osmosis",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "WrinkledMare4403",
+    "s" : [
+      [
+        "clock",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "Wug50",
+    "s" : [
+      [
+        "canberra",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Yasmindi From Queenstown",
+    "s" : [
+      [
+        "crazyquilt",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "Yennie2000 26",
+    "s" : [
+      [
+        "osmosis",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "Zealous Exterminator 229",
+    "s" : [
+      [
+        "osmosis",
+        65
+      ],
+      [
+        "montecarlo",
+        1
+      ],
+      [
+        "grandfathersclock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Zenxara",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ],
+      [
+        "bigben",
+        18
+      ],
+      [
+        "fourseasons",
+        2
+      ],
+      [
+        "bakersdozen",
+        1
+      ],
+      [
+        "indiancarpet",
+        182
+      ]
+    ]
+  },
+  {
+    "a" : "Zoeyquiggle",
+    "s" : [
+      [
+        "osmosis",
+        13
+      ]
+    ]
+  },
+  {
+    "a" : "Zzzzzzzzzz 62",
+    "s" : [
+      [
+        "mountolympus",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "[^josh+47^]",
+    "s" : [
+      [
+        "osmosis",
+        7
+      ]
+    ]
+  },
+  {
+    "a" : "_:Pete 63:_",
+    "s" : [
+      [
+        "osmosis",
+        73
+      ]
+    ]
+  },
+  {
+    "a" : "__Crazy80__",
+    "s" : [
+      [
+        "clock",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "_bahar_**",
+    "s" : [
+      [
+        "algerian",
+        29
+      ]
+    ]
+  },
+  {
+    "a" : "adrianna p535",
+    "s" : [
+      [
+        "osmosis",
+        31
+      ]
+    ]
+  },
+  {
+    "a" : "alex07052004",
+    "s" : [
+      [
+        "indiancarpet",
+        12
+      ]
+    ]
+  },
+  {
+    "a" : "alexalexalex77",
+    "s" : [
+      [
+        "josephine.r",
+        61
+      ],
+      [
+        "napoleon.r",
+        60
+      ]
+    ]
+  },
+  {
+    "a" : "apple&almonds",
+    "s" : [
+      [
+        "algerian",
+        9
+      ],
+      [
+        "algerian.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "arson_ist",
+    "s" : [
+      [
+        "crazyquilt",
+        1
+      ],
+      [
+        "indiancarpet",
+        161
+      ]
+    ]
+  },
+  {
+    "a" : "ash12 34",
+    "s" : [
+      [
+        "osmosis",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "autreyrob",
+    "s" : [
+      [
+        "indiancarpet",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "awhow",
+    "s" : [
+      [
+        "bluemoon",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "beckyymilligan",
+    "s" : [
+      [
+        "royalparade",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "btonchav",
+    "s" : [
+      [
+        "algerian",
+        1
+      ],
+      [
+        "algerian.r",
+        200
+      ]
+    ]
+  },
+  {
+    "a" : "bubbageek",
+    "s" : [
+      [
+        "josephine.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "buus\/\/",
+    "s" : [
+      [
+        "klondike",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "catmac1016",
+    "s" : [
+      [
+        "royalparade",
+        12
+      ]
+    ]
+  },
+  {
+    "a" : "cha.mcg",
+    "s" : [
+      [
+        "australian",
+        10
+      ]
+    ]
+  },
+  {
+    "a" : "cheyenne9525",
+    "s" : [
+      [
+        "grandfathersclock",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "cjk1003",
+    "s" : [
+      [
+        "osmosis",
+        10
+      ]
+    ]
+  },
+  {
+    "a" : "conjobs",
+    "s" : [
+      [
+        "australian",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "crawfe333",
+    "s" : [
+      [
+        "osmosis",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "crostat50",
+    "s" : [
+      [
+        "osmosis",
+        13
+      ]
+    ]
+  },
+  {
+    "a" : "darterwv",
+    "s" : [
+      [
+        "osmosis",
+        45
+      ]
+    ]
+  },
+  {
+    "a" : "darthsydan",
+    "s" : [
+      [
+        "osmosis",
+        25
+      ]
+    ]
+  },
+  {
+    "a" : "dashiell.co",
+    "s" : [
+      [
+        "klondike",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "dave99336",
+    "s" : [
+      [
+        "russian",
+        1106
+      ]
+    ]
+  },
+  {
+    "a" : "dazz3l",
+    "s" : [
+      [
+        "osmosis",
+        110
+      ]
+    ]
+  },
+  {
+    "a" : "desm0377",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "diesel18",
+    "s" : [
+      [
+        "klondike.3",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "dilarss",
+    "s" : [
+      [
+        "fourseasons",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "dragnwon",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "elvis010101",
+    "s" : [
+      [
+        "napoleon.r",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "foxykazoo",
+    "s" : [
+      [
+        "montecarlo",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "frostyjen68",
+    "s" : [
+      [
+        "osmosis",
+        14
+      ]
+    ]
+  },
+  {
+    "a" : "fthamideh",
+    "s" : [
+      [
+        "klondike",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "g_m_johnston",
+    "s" : [
+      [
+        "osmosis",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "gelz1",
+    "s" : [
+      [
+        "algerian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "gigliotti2012",
+    "s" : [
+      [
+        "osmosis",
+        17
+      ]
+    ]
+  },
+  {
+    "a" : "gnoc",
+    "s" : [
+      [
+        "australian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "gra mca",
+    "s" : [
+      [
+        "clock",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "gunnernate",
+    "s" : [
+      [
+        "osmosis",
+        42
+      ]
+    ]
+  },
+  {
+    "a" : "halsdon36",
+    "s" : [
+      [
+        "australian",
+        159
+      ]
+    ]
+  },
+  {
+    "a" : "hkabou",
+    "s" : [
+      [
+        "australian",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "hollyfogel9",
+    "s" : [
+      [
+        "osmosis",
+        41
+      ]
+    ]
+  },
+  {
+    "a" : "honey badger 529",
+    "s" : [
+      [
+        "clock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "iawa1437",
+    "s" : [
+      [
+        "osmosis",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "iimagineer",
+    "s" : [
+      [
+        "klondike.3",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "imre.oros",
+    "s" : [
+      [
+        "klondike",
+        2
+      ],
+      [
+        "klondike.3",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "ingmat",
+    "s" : [
+      [
+        "algerian",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "irina-65",
+    "s" : [
+      [
+        "easthaven.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "jackinay",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "jake1goldie",
+    "s" : [
+      [
+        "osmosis",
+        37
+      ]
+    ]
+  },
+  {
+    "a" : "jeannot114",
+    "s" : [
+      [
+        "fourseasons",
+        7
+      ]
+    ]
+  },
+  {
+    "a" : "jellohamster",
+    "s" : [
+      [
+        "yukon",
+        5
+      ],
+      [
+        "tripeaks.r",
+        4
+      ],
+      [
+        "freecell",
+        7
+      ],
+      [
+        "freecell_s",
+        5
+      ],
+      [
+        "bakersdozen",
+        1
+      ],
+      [
+        "osmosis",
+        1
+      ],
+      [
+        "montecarlo",
+        6
+      ],
+      [
+        "spanish",
+        1
+      ],
+      [
+        "castlesinspain",
+        1
+      ],
+      [
+        "martha",
+        2
+      ],
+      [
+        "australian",
+        2
+      ],
+      [
+        "royalparade",
+        28
+      ],
+      [
+        "russian",
+        13
+      ],
+      [
+        "bluemoon",
+        7
+      ],
+      [
+        "mountolympus",
+        1
+      ],
+      [
+        "indiancarpet",
+        13
+      ],
+      [
+        "napoleon.r",
+        2
+      ],
+      [
+        "grandfathersclock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "jenchast2",
+    "s" : [
+      [
+        "klondike",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "joebutts333",
+    "s" : [
+      [
+        "osmosis",
+        42
+      ]
+    ]
+  },
+  {
+    "a" : "jujjujuj22",
+    "s" : [
+      [
+        "bakersdozen",
+        18
+      ]
+    ]
+  },
+  {
+    "a" : "jz4242",
+    "s" : [
+      [
+        "crazyquilt",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "katten som inte gillar fiskar",
+    "s" : [
+      [
+        "montecarlo",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "kayaksalad",
+    "s" : [
+      [
+        "easthaven.r",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "kbyrf",
+    "s" : [
+      [
+        "osmosis",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "keepkalmz",
+    "s" : [
+      [
+        "algerian",
+        51
+      ]
+    ]
+  },
+  {
+    "a" : "kkkathyy",
+    "s" : [
+      [
+        "algerian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "lilia.ryerson",
+    "s" : [
+      [
+        "klondike",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "liz21biz",
+    "s" : [
+      [
+        "osmosis",
+        132
+      ]
+    ]
+  },
+  {
+    "a" : "lynncat1967",
+    "s" : [
+      [
+        "clock",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "marwel 64",
+    "s" : [
+      [
+        "montecarlo",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "me6315",
+    "s" : [
+      [
+        "australian",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "medinauta",
+    "s" : [
+      [
+        "klondike",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "megancturner",
+    "s" : [
+      [
+        "russian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "mekkado",
+    "s" : [
+      [
+        "osmosis",
+        108
+      ]
+    ]
+  },
+  {
+    "a" : "meps737",
+    "s" : [
+      [
+        "canberra",
+        1906
+      ]
+    ]
+  },
+  {
+    "a" : "milissagrace",
+    "s" : [
+      [
+        "osmosis",
+        23
+      ]
+    ]
+  },
+  {
+    "a" : "mimimimi:o)",
+    "s" : [
+      [
+        "australian",
+        459
+      ]
+    ]
+  },
+  {
+    "a" : "mjj101179",
+    "s" : [
+      [
+        "grandfathersclock",
+        12
+      ]
+    ]
+  },
+  {
+    "a" : "ml123 22",
+    "s" : [
+      [
+        "castlesinspain",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "mskaPO",
+    "s" : [
+      [
+        "royalparade",
+        13
+      ]
+    ]
+  },
+  {
+    "a" : "mssurora",
+    "s" : [
+      [
+        "indiancarpet",
+        22
+      ]
+    ]
+  },
+  {
+    "a" : "mudpetunia",
+    "s" : [
+      [
+        "osmosis",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "mum24kidz",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "múdry kôň",
+    "s" : [
+      [
+        "australian",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "nelanjen",
+    "s" : [
+      [
+        "osmosis",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "nikita_0.0",
+    "s" : [
+      [
+        "crazyquilt",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "notonia",
+    "s" : [
+      [
+        "algerian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "onaka hetta",
+    "s" : [
+      [
+        "australian",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "other9421ify",
+    "s" : [
+      [
+        "osmosis",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "paytonann22",
+    "s" : [
+      [
+        "osmosis",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "peanutcela",
+    "s" : [
+      [
+        "australian",
+        30
+      ]
+    ]
+  },
+  {
+    "a" : "pilotootto",
+    "s" : [
+      [
+        "klondike",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "pinkhare💕",
+    "s" : [
+      [
+        "australian",
+        121
+      ]
+    ]
+  },
+  {
+    "a" : "poodle-incus",
+    "s" : [
+      [
+        "osmosis",
+        7
+      ]
+    ]
+  },
+  {
+    "a" : "pookiehop",
+    "s" : [
+      [
+        "crazyquilt",
+        1
+      ],
+      [
+        "indiancarpet",
+        25
+      ]
+    ]
+  },
+  {
+    "a" : "raacchhh",
+    "s" : [
+      [
+        "osmosis",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "rachelbrooke07",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ],
+      [
+        "montecarlo",
+        1
+      ],
+      [
+        "klondike",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "renee3361",
+    "s" : [
+      [
+        "osmosis",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "rj3711",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "rubyredford 5",
+    "s" : [
+      [
+        "napoleon.r",
+        197
+      ]
+    ]
+  },
+  {
+    "a" : "s4ra76",
+    "s" : [
+      [
+        "crazyquilt",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "sammieiy_",
+    "s" : [
+      [
+        "crazyquilt",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "sarah 🐰💜",
+    "s" : [
+      [
+        "osmosis",
+        24
+      ]
+    ]
+  },
+  {
+    "a" : "scarlet834",
+    "s" : [
+      [
+        "osmosis",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "scentsygirl62",
+    "s" : [
+      [
+        "clock",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "scrappysuzyq",
+    "s" : [
+      [
+        "osmosis",
+        36
+      ]
+    ]
+  },
+  {
+    "a" : "sfgjkufcb",
+    "s" : [
+      [
+        "osmosis",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "sghiemer",
+    "s" : [
+      [
+        "osmosis",
+        13
+      ]
+    ]
+  },
+  {
+    "a" : "sgjj18",
+    "s" : [
+      [
+        "royalparade",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "sglanders",
+    "s" : [
+      [
+        "martha",
+        4
+      ],
+      [
+        "tasmanian",
+        2
+      ],
+      [
+        "napoleon.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "shanan",
+    "s" : [
+      [
+        "osmosis",
+        59
+      ]
+    ]
+  },
+  {
+    "a" : "shelly7200",
+    "s" : [
+      [
+        "osmosis",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "sirj1",
+    "s" : [
+      [
+        "royalparade",
+        18
+      ]
+    ]
+  },
+  {
+    "a" : "slytherin_girl2004",
+    "s" : [
+      [
+        "clock",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "smhaenggi",
+    "s" : [
+      [
+        "australian",
+        19
+      ],
+      [
+        "tasmanian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "sniesse",
+    "s" : [
+      [
+        "josephine.r",
+        49
+      ]
+    ]
+  },
+  {
+    "a" : "somethingbroome",
+    "s" : [
+      [
+        "tasmanian",
+        197
+      ],
+      [
+        "algerian.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "spartakus42",
+    "s" : [
+      [
+        "australian",
+        312
+      ]
+    ]
+  },
+  {
+    "a" : "stofjess",
+    "s" : [
+      [
+        "australian",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "swf47",
+    "s" : [
+      [
+        "clock",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "tambotheterrible",
+    "s" : [
+      [
+        "indiancarpet",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "thaikickass88",
+    "s" : [
+      [
+        "klondike",
+        2
+      ],
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "theputer",
+    "s" : [
+      [
+        "bigben",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "theshug",
+    "s" : [
+      [
+        "clock",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "thomas_59#",
+    "s" : [
+      [
+        "canberra",
+        8
+      ],
+      [
+        "tasmanian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "trashgoose",
+    "s" : [
+      [
+        "osmosis",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "trekletrex",
+    "s" : [
+      [
+        "crazyquilt",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "twinsgran",
+    "s" : [
+      [
+        "algerian",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "uhu50",
+    "s" : [
+      [
+        "algerian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "vog112",
+    "s" : [
+      [
+        "josephine.r",
+        298
+      ]
+    ]
+  },
+  {
+    "a" : "w0rm62",
+    "s" : [
+      [
+        "osmosis",
+        25
+      ]
+    ]
+  },
+  {
+    "a" : "wraith hammer",
+    "s" : [
+      [
+        "osmosis",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "xtinamars",
+    "s" : [
+      [
+        "osmosis",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "zozojohn",
+    "s" : [
+      [
+        "royalparade",
+        147
+      ]
+    ]
+  },
+  {
+    "a" : "{Doc 1}",
+    "s" : [
+      [
+        "osmosis",
+        75
+      ]
+    ]
+  },
+  {
+    "a" : "~ * honeybee * ~",
+    "s" : [
+      [
+        "osmosis",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "ВодныйОгонек56",
+    "s" : [
+      [
+        "algerian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Маргарина2",
+    "s" : [
+      [
+        "algerian",
+        72
+      ]
+    ]
+  },
+  {
+    "a" : "عين في جبل الشوك",
+    "s" : [
+      [
+        "napoleon.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "وردة متحذلقة 70",
+    "s" : [
+      [
+        "martha",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "•Speed•Racer•",
+    "s" : [
+      [
+        "martha",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "•TJDa’Man•",
+    "s" : [
+      [
+        "osmosis",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "学霸稍微傲娇8",
+    "s" : [
+      [
+        "klondike",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "牛排就想去昆仑山跳绳",
+    "s" : [
+      [
+        "klondike",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "的阳2007",
+    "s" : [
+      [
+        "klondike.3",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "飄逸天真機師",
+    "s" : [
+      [
+        "bakersdozen",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "香蕉-不拿拿",
+    "s" : [
+      [
+        "klondike",
+        13
+      ],
+      [
+        "klondike.3",
+        49739
+      ]
+    ]
+  },
+  {
+    "a" : "네임 11",
+    "s" : [
+      [
+        "russian",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "핑크시아",
+    "s" : [
+      [
+        "bakersdozen",
+        1
+      ],
+      [
+        "canberra",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "하갓냐의 바늘",
+    "s" : [
+      [
+        "osmosis",
+        1
+      ],
+      [
+        "mountolympus",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "BarkingAdder4203",
+    "s" : [
+      [
+        "alaska",
+        201
+      ]
+    ]
+  },
+  {
+    "a" : "BrightViper6803",
+    "s" : [
+      [
+        "alaska",
+        3
+      ]
+    ]
+  },
+    {
+    "a" : "Brombeere08",
+    "s" : [
+      [
+        "alaska",
+        1
+      ]
+    ]
+  },
+    {
+    "a" : "Bố Helen",
+    "s" : [
+      [
+        "alaska",
+        5
+      ]
+    ]
+  },
+    {
+    "a" : "CaliMomo23",
+    "s" : [
+      [
+        "alaska",
+        6
+      ]
+    ]
+  },
+    {
+    "a" : "Dark Razorback of Scarlet Glen",
+    "s" : [
+      [
+        "alaska",
+        1
+      ]
+    ]
+  },
+    {
+    "a" : "Eboni Wennino",
+    "s" : [
+      [
+        "alaska",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "Fidelia The Wondrous Scholar",
+    "s" : [
+      [
+        "alaska",
+        468
+      ]
+    ]
+  },
+  {
+    "a" : "FunnyAnt8976",
+    "s" : [
+      [
+        "alaska",
+        22
+      ]
+    ]
+  },
+  {
+    "a" : "GraySpider8050",
+    "s" : [
+      [
+        "alaska",
+        28
+      ]
+    ]
+  },
+  {
+    "a" : "Lena1253",
+    "s" : [
+      [
+        "alaska",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "LindaDaisy3",
+    "s" : [
+      [
+        "alaska",
+        176
+      ]
+    ]
+  },
+  {
+    "a" : "MaffeMaki57",
+    "s" : [
+      [
+        "alaska",
+        831
+      ]
+    ]
+  },
+  {
+    "a" : "MissyDrBetty",
+    "s" : [
+      [
+        "alaska",
+        17
+      ]
+    ]
+  },
+  {
+    "a" : "MoneyMind1.0",
+    "s" : [
+      [
+        "alaska",
+        168
+      ]
+    ]
+  },
+  {
+    "a" : "MuitoDanadinha",
+    "s" : [
+      [
+        "alaska",
+        58
+      ]
+    ]
+  },
+  {
+    "a" : "Podleoon",
+    "s" : [
+      [
+        "alaska",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "TactfulEagle4172",
+    "s" : [
+      [
+        "alaska",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Tortenhai",
+    "s" : [
+      [
+        "alaska",
+        70
+      ]
+    ]
+  },
+  {
+    "a" : "Wapplehorst06",
+    "s" : [
+      [
+        "alaska",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "WiseJester4532",
+    "s" : [
+      [
+        "alaska",
+        225
+      ]
+    ]
+  },
+  {
+    "a" : "auntkk",
+    "s" : [
+      [
+        "alaska",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "belkerr18",
+    "s" : [
+      [
+        "alaska",
+        195
+      ]
+    ]
+  },
+  {
+    "a" : "ceguʕ•ᴥ•ʔ",
+    "s" : [
+      [
+        "alaska",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "e3e 4",
+    "s" : [
+      [
+        "alaska",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "incredibly understandable",
+    "s" : [
+      [
+        "alaska",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "keetah_beetah",
+    "s" : [
+      [
+        "alaska",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "krazylegspfc",
+    "s" : [
+      [
+        "alaska",
+        70
+      ]
+    ]
+  },
+  {
+    "a" : "ksampson8",
+    "s" : [
+      [
+        "alaska",
+        142
+      ]
+    ]
+  },
+  {
+    "a" : "larob26",
+    "s" : [
+      [
+        "alaska",
+        300
+      ]
+    ]
+  },
+  {
+    "a" : "laso:D",
+    "s" : [
+      [
+        "alaska",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "lillynxy",
+    "s" : [
+      [
+        "alaska",
+        13
+      ]
+    ]
+  },
+  {
+    "a" : "sgdw999",
+    "s" : [
+      [
+        "alaska",
+        35
+      ]
+    ]
+  },
+  {
+    "a" : "shumbaby",
+    "s" : [
+      [
+        "alaska",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "swishn",
+    "s" : [
+      [
+        "alaska",
+        11
+      ]
+    ]
+  },
+  {
+    "a" : "wapple apple 591",
+    "s" : [
+      [
+        "alaska",
+        32
+      ]
+    ]
+  },
+  {
+    "a" : "Курчавый Геркулес из Эфиопии",
+    "s" : [
+      [
+        "alaska",
+        145
+      ]
+    ]
+  },
+    {
+    "a" : "123janer123",
+    "s" : [
+      [
+        "citadel",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Derpster08",
+    "s" : [
+      [
+        "citadel",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Easy Knave from Shiny Townffo",
+    "s" : [
+      [
+        "citadel",
+        185
+      ]
+    ]
+  },
+  {
+    "a" : "StrayMystic9235",
+    "s" : [
+      [
+        "citadel",
+        96
+      ]
+    ]
+  },
+  {
+    "a" : "net2294",
+    "s" : [
+      [
+        "citadel",
+        727
+      ]
+    ]
+  },
+  {
+    "a" : "yeiin7627",
+    "s" : [
+      [
+        "citadel",
+        4
+      ]
+    ]
+  },
+    {
+    "a" : "==P4bl1to==",
+    "s" : [
+      [
+        "freecell",
+        3
+      ],
+      [
+        "freecell_s",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Antitrust!",
+    "s" : [
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "B 1 imunda",
+    "s" : [
+      [
+        "freecell",
+        9
+      ],
+      [
+        "freecell_s",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "BluntOryx7529",
+    "s" : [
+      [
+        "freecell",
+        7
+      ],
+      [
+        "freecell_s",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Burrowing Barber 127",
+    "s" : [
+      [
+        "freecell",
+        143
+      ],
+      [
+        "freecell_s",
+        143
+      ]
+    ]
+  },
+  {
+    "a" : "CuervoFalaz68",
+    "s" : [
+      [
+        "freecell",
+        109
+      ],
+      [
+        "freecell_s",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "Intelligent Panda 45",
+    "s" : [
+      [
+        "freecell",
+        2
+      ],
+      [
+        "freecell_s",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Japon😄",
+    "s" : [
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "JaziJaxi444",
+    "s" : [
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "LadyC109",
+    "s" : [
+      [
+        "freecell",
+        29
+      ],
+      [
+        "freecell_s",
+        10
+      ]
+    ]
+  },
+  {
+    "a" : "Mabolita.",
+    "s" : [
+      [
+        "freecell",
+        2
+      ],
+      [
+        "freecell_s",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "NervyTreant8210",
+    "s" : [
+      [
+        "freecell",
+        2
+      ],
+      [
+        "freecell_s",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Ooie43",
+    "s" : [
+      [
+        "freecell",
+        134
+      ],
+      [
+        "freecell_s",
+        134
+      ]
+    ]
+  },
+  {
+    "a" : "PandaSábio246",
+    "s" : [
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Pastor Steve 73",
+    "s" : [
+      [
+        "freecell",
+        72
+      ],
+      [
+        "freecell_s",
+        72
+      ]
+    ]
+  },
+  {
+    "a" : "Pirzol17",
+    "s" : [
+      [
+        "freecell",
+        5
+      ],
+      [
+        "freecell_s",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "SESE7ENEN",
+    "s" : [
+      [
+        "freecell",
+        2
+      ],
+      [
+        "freecell_s",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Saumuka",
+    "s" : [
+      [
+        "freecell",
+        424
+      ],
+      [
+        "freecell_s",
+        42
+      ]
+    ]
+  },
+  {
+    "a" : "ScaryGaoler7986",
+    "s" : [
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Schnootzie3",
+    "s" : [
+      [
+        "freecell",
+        4
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Steve14186",
+    "s" : [
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Supertiger_007",
+    "s" : [
+      [
+        "freecell",
+        95
+      ],
+      [
+        "freecell_s",
+        95
+      ]
+    ]
+  },
+  {
+    "a" : "Toaster1034",
+    "s" : [
+      [
+        "freecell",
+        53
+      ],
+      [
+        "freecell_s",
+        53
+      ]
+    ]
+  },
+  {
+    "a" : "Tom Reed",
+    "s" : [
+      [
+        "freecell",
+        52
+      ],
+      [
+        "freecell_s",
+        5
+      ]
+    ]
+  },
+  {
+    "a" : "TwistedPilot2920",
+    "s" : [
+      [
+        "freecell",
+        81
+      ],
+      [
+        "freecell_s",
+        50
+      ]
+    ]
+  },
+  {
+    "a" : "VeiligPad95",
+    "s" : [
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Vip Ferid",
+    "s" : [
+      [
+        "freecell",
+        1316
+      ],
+      [
+        "freecell_s",
+        25
+      ]
+    ]
+  },
+  {
+    "a" : "WhiteWhale081",
+    "s" : [
+      [
+        "freecell",
+        29
+      ],
+      [
+        "freecell_s",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "Wondrous Ox of Green Falls",
+    "s" : [
+      [
+        "freecell",
+        2
+      ],
+      [
+        "freecell_s",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Xrê",
+    "s" : [
+      [
+        "freecell",
+        16
+      ],
+      [
+        "freecell_s",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "blinkofaneye",
+    "s" : [
+      [
+        "freecell",
+        203
+      ],
+      [
+        "freecell_s",
+        203
+      ]
+    ]
+  },
+  {
+    "a" : "dianesgranddaughter",
+    "s" : [
+      [
+        "freecell",
+        184
+      ],
+      [
+        "freecell_s",
+        8
+      ]
+    ]
+  },
+  {
+    "a" : "dzdwizard",
+    "s" : [
+      [
+        "freecell",
+        93
+      ],
+      [
+        "freecell_s",
+        90
+      ]
+    ]
+  },
+  {
+    "a" : "erseso",
+    "s" : [
+      [
+        "freecell",
+        904
+      ],
+      [
+        "freecell_s",
+        895
+      ]
+    ]
+  },
+  {
+    "a" : "heschaldo",
+    "s" : [
+      [
+        "freecell",
+        490
+      ],
+      [
+        "freecell_s",
+        482
+      ]
+    ]
+  },
+  {
+    "a" : "ironmandan6",
+    "s" : [
+      [
+        "freecell",
+        3
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "isthmuses",
+    "s" : [
+      [
+        "freecell",
+        18
+      ],
+      [
+        "freecell_s",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "mari000032",
+    "s" : [
+      [
+        "freecell",
+        243
+      ],
+      [
+        "freecell_s",
+        33
+      ]
+    ]
+  },
+  {
+    "a" : "maxxamax",
+    "s" : [
+      [
+        "freecell",
+        605
+      ],
+      [
+        "freecell_s",
+        605
+      ]
+    ]
+  },
+  {
+    "a" : "mp1035",
+    "s" : [
+      [
+        "freecell",
+        94
+      ],
+      [
+        "freecell_s",
+        51
+      ]
+    ]
+  },
+  {
+    "a" : "mr_zimms",
+    "s" : [
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "soofie62",
+    "s" : [
+      [
+        "freecell",
+        600
+      ],
+      [
+        "freecell_s",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "xxxxfythifccb",
+    "s" : [
+      [
+        "freecell",
+        1
+      ],
+      [
+        "freecell_s",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "محمد حمد 83",
+    "s" : [
+      [
+        "freecell",
+        1006
+      ],
+      [
+        "freecell_s",
+        28
+      ]
+    ]
+  },
+  {
+    "a" : "涙脆いトカレフ",
+    "s" : [
+      [
+        "freecell",
+        48
+      ],
+      [
+        "freecell_s",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Den døsige klovn fra paradis",
+    "s" : [
+      [
+        "pyramid",
+        44
+      ]
+    ]
+  },
+  {
+    "a" : "Den flyvende tandfe fra Pluto",
+    "s" : [
+      [
+        "pyramid",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Flink Slot 60",
+    "s" : [
+      [
+        "pyramid",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "IT’s JOKER-679",
+    "s" : [
+      [
+        "pyramid",
+        11
+      ],
+      [
+        "tuts",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Leo231955",
+    "s" : [
+      [
+        "pyramid",
+        43
+      ]
+    ]
+  },
+  {
+    "a" : "Muppenjadmine",
+    "s" : [
+      [
+        "pyramid",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "Outstanding Misanthrope 323",
+    "s" : [
+      [
+        "pyramid",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "OvelaKotka25",
+    "s" : [
+      [
+        "pyramid",
+        92
+      ]
+    ]
+  },
+  {
+    "a" : "Player_1313340918",
+    "s" : [
+      [
+        "pyramid",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Senopia",
+    "s" : [
+      [
+        "pyramid",
+        2
+      ],
+      [
+        "tripeaks.r",
+        19
+      ]
+    ]
+  },
+  {
+    "a" : "SepiaShark1521",
+    "s" : [
+      [
+        "pyramid",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "Vibeke1950",
+    "s" : [
+      [
+        "pyramid",
+        211
+      ]
+    ]
+  },
+  {
+    "a" : "Wizened Hippo of Wooden Realm",
+    "s" : [
+      [
+        "pyramid",
+        211
+      ]
+    ]
+  },
+  {
+    "a" : "andikante",
+    "s" : [
+      [
+        "pyramid",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "bear8ar",
+    "s" : [
+      [
+        "pyramid",
+        123
+      ]
+    ]
+  },
+  {
+    "a" : "bec682",
+    "s" : [
+      [
+        "pyramid",
+        9
+      ]
+    ]
+  },
+  {
+    "a" : "jrfin",
+    "s" : [
+      [
+        "pyramid",
+        37
+      ]
+    ]
+  },
+  {
+    "a" : "jvmay",
+    "s" : [
+      [
+        "pyramid",
+        22
+      ]
+    ]
+  },
+  {
+    "a" : "mitä väliä",
+    "s" : [
+      [
+        "pyramid",
+        31
+      ]
+    ]
+  },
+  {
+    "a" : "Злейшая Пчелка из Нарнии",
+    "s" : [
+      [
+        "tuts",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "-.grocer.-",
+    "s" : [
+      [
+        "tripeaks.r",
+        77
+      ]
+    ]
+  },
+  {
+    "a" : "??les",
+    "s" : [
+      [
+        "tripeaks.r",
+        89
+      ]
+    ]
+  },
+  {
+    "a" : "Abinadab11",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Boatboy01",
+    "s" : [
+      [
+        "tripeaks.r",
+        112
+      ]
+    ]
+  },
+  {
+    "a" : "CGarcia;-)",
+    "s" : [
+      [
+        "tripeaks.r",
+        7
+      ]
+    ]
+  },
+  {
+    "a" : "CeraAislada16",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Diamond.100",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Frogyou2269",
+    "s" : [
+      [
+        "tripeaks.r",
+        414
+      ]
+    ]
+  },
+  {
+    "a" : "HiddenAnt7748",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Hought Of Broken Shield",
+    "s" : [
+      [
+        "tripeaks.r",
+        39
+      ]
+    ]
+  },
+  {
+    "a" : "JonathanMitchem",
+    "s" : [
+      [
+        "tripeaks.r",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "KatEck1057",
+    "s" : [
+      [
+        "tripeaks.r",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Lizzy is no. 1",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "LiМон",
+    "s" : [
+      [
+        "tripeaks.r",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "MandyPoo66",
+    "s" : [
+      [
+        "tripeaks.r",
+        157
+      ]
+    ]
+  },
+  {
+    "a" : "MrLézardCorsé",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Nenette.32",
+    "s" : [
+      [
+        "tripeaks.r",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "Pat k 1957",
+    "s" : [
+      [
+        "tripeaks.r",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "PinhaEficaz997",
+    "s" : [
+      [
+        "tripeaks.r",
+        4
+      ]
+    ]
+  },
+  {
+    "a" : "Spiaci veslár 7",
+    "s" : [
+      [
+        "tripeaks.r",
+        16
+      ]
+    ]
+  },
+  {
+    "a" : "Suzburtz",
+    "s" : [
+      [
+        "tripeaks.r",
+        111
+      ]
+    ]
+  },
+  {
+    "a" : "cheekybasher",
+    "s" : [
+      [
+        "tripeaks.r",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "crashstop",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "mmm.teffy",
+    "s" : [
+      [
+        "tripeaks.r",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Dämon des stillen Vulkans",
+    "s" : [
+      [
+        "yukon",
+        19
+      ]
+    ]
+  },
+  {
+    "a" : "HibouRâleur64",
+    "s" : [
+      [
+        "yukon",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Isajul3811",
+    "s" : [
+      [
+        "yukon",
+        29
+      ]
+    ]
+  },
+  {
+    "a" : "Jeckyyyyyy",
+    "s" : [
+      [
+        "yukon",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Joueur_9386848815",
+    "s" : [
+      [
+        "yukon",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Maya Otto",
+    "s" : [
+      [
+        "yukon",
+        1
+      ]
+    ]
+  },
+  {
+    "a" : "Paulkrupa",
+    "s" : [
+      [
+        "yukon",
+        3
+      ]
+    ]
+  },
+  {
+    "a" : "SepiaDuck4973",
+    "s" : [
+      [
+        "yukon",
+        2
+      ]
+    ]
+  },
+  {
+    "a" : "Shell.shells",
+    "s" : [
+      [
+        "yukon",
+        6
+      ]
+    ]
+  },
+  {
+    "a" : "nancykhall",
+    "s" : [
+      [
+        "yukon",
+        7
+      ]
+    ]
+  },
+  {
+    "a" : "peachy.keane",
+    "s" : [
+      [
+        "yukon",
+        103
       ]
     ]
   }
