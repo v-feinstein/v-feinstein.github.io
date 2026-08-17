@@ -1,0 +1,59 @@
+/* your styles go here */
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+
+/* --- responsive screenshots -------------------------------------------- */
+/* Images now carry width/height attributes so the browser can reserve space
+   before they load. This keeps them fluid without reintroducing layout shift. */
+.box-simple .image img,
+#blog-listing-medium .image img,
+.features-grid .image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.page-head .box-title h1 {
+    margin-top: 10px;
+}
+
+.tagline {
+    color: #777;
+    margin-bottom: 20px;
+}
+
+.footer-links {
+    margin-bottom: 6px;
+}
+
+.footer-links a {
+    margin: 0 10px;
+}
+
+/* --- all-solitaire grid: equal columns ---------------------------------- */
+/* `repeat(var(--col), 1fr)` in the theme resolves to minmax(auto, 1fr), and
+   the "auto" minimum is the track's min-content width. "Grandfather's Clock"
+   contains the longest unbreakable token in the grid, so its column refuses
+   to shrink past that word and stays wider than the other six - which makes
+   every image in that column render larger. minmax(0, 1fr) removes the floor
+   so all tracks stay equal; break-word lets the long name wrap instead. */
+.features-grid {
+    grid-template-columns: repeat(var(--col), minmax(0, 1fr));
+}
+
+.features-grid .box-simple h2 {
+    font-size: 18px;          /* was an <h3> before; keeps the original size */
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
