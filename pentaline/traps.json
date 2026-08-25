@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "traps": 
+  { 
+    "TAPBOARD-RANGE": "crash", 
+    "AI-NEXTMOVE": "crash", 
+    "ANIM-DOUBLE": "log" 
+  } 
+}
