@@ -58,3 +58,20 @@
     overflow-wrap: break-word;
     hyphens: auto;
 }
+
+/* --- app icons ----------------------------------------------------------- */
+/* The source icons are square 1024px PNGs - iOS rounds them at display time,
+   so an unrounded square reads as harsh on the page. 22.37% is the iOS corner
+   radius as a fraction of icon width. At the 80px size these render at, it is
+   indistinguishable from Apple's true squircle; the two shapes only visibly
+   diverge above roughly 150px.
+
+   corner-shape upgrades it to a real squircle where supported (Chrome 139+).
+   It is still experimental and absent from Safari, where the declaration is
+   simply ignored and border-radius stands - so this costs nothing.
+
+   Scoped to .app-icon on purpose: .image also wraps the App Store badge. */
+.app-icon {
+    border-radius: 20.37%; /* 22.37% was original, but clipped content on some icons */
+    corner-shape: squircle;
+}
