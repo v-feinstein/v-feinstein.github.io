@@ -59,6 +59,13 @@
     hyphens: auto;
 }
 
+/* "How to play X" link under a retired game's tile - see layouts/solitaire.html */
+.features-grid .tile-rules {
+    margin: 4px 0 0;
+    font-size: 14px;
+    overflow-wrap: break-word;
+}
+
 /* --- app icons ----------------------------------------------------------- */
 /* The source icons are square 1024px PNGs - iOS rounds them at display time,
    so an unrounded square reads as harsh on the page. 22.37% is the iOS corner
