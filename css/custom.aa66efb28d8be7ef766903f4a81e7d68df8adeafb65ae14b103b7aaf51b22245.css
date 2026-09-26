@@ -59,6 +59,24 @@
     hyphens: auto;
 }
 
+/* --- tile grid pages: wide layout on desktop ------------------------------ */
+/* All Solitaire and Solitaire Rules (layouts/solitaire.html, class grid-page).
+   From 1200px up, the page uses the full window width instead of Bootstrap's
+   fixed 1170px container, and fits as many tiles across as --tile-min allows:
+   about 8 at 1440px, 9 at 1728px, 11 at 1920px. Below 1200px the --col
+   breakpoints in style.default.css still decide. Tune --tile-min to taste. */
+@media (min-width: 1200px) {
+    .container.grid-page {
+        --tile-min: 150px;
+        width: auto;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .grid-page .features-grid {
+        grid-template-columns: repeat(auto-fill, minmax(var(--tile-min), 1fr));
+    }
+}
+
 /* "How to play X" link under a retired game's tile - see layouts/solitaire.html */
 .features-grid .tile-rules {
     margin: 4px 0 0;
