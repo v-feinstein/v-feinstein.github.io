@@ -1,59 +1,59 @@
 {
  "schema": 1,
- "generated": "2026-09-25",
+ "generated": "2026-09-27",
  "from": "2026-07-05",
- "to": "2026-09-25",
+ "to": "2026-09-27",
  "minPlayers": 5,
  "minStarted": 30,
  "games": {
   "alaska": {
-   "rate": 0.088,
-   "started": 4543,
-   "won": 398,
-   "players": 35,
-   "medWinSecs": 239
+   "rate": 0.087,
+   "started": 4724,
+   "won": 410,
+   "players": 36,
+   "medWinSecs": 242
   },
   "alaska.r": {
-   "rate": 0.169,
-   "started": 1601,
-   "won": 271,
+   "rate": 0.17,
+   "started": 1629,
+   "won": 277,
    "players": 28,
-   "medWinSecs": 259
+   "medWinSecs": 245
   },
   "algerian": {
-   "rate": 0.69,
-   "started": 636,
-   "won": 439,
+   "rate": 0.691,
+   "started": 648,
+   "won": 448,
    "players": 23,
    "medWinSecs": 664
   },
   "algerian.r": {
-   "rate": 0.533,
-   "started": 229,
-   "won": 122,
-   "players": 15,
-   "medWinSecs": 871
+   "rate": 0.544,
+   "started": 237,
+   "won": 129,
+   "players": 16,
+   "medWinSecs": 881
   },
   "alibaba": {
-   "rate": 0.651,
-   "started": 86,
-   "won": 56,
+   "rate": 0.655,
+   "started": 87,
+   "won": 57,
    "players": 11,
-   "medWinSecs": 271
+   "medWinSecs": 272
   },
   "australian": {
-   "rate": 0.182,
-   "started": 7617,
-   "won": 1385,
-   "players": 29,
-   "medWinSecs": 246
+   "rate": 0.181,
+   "started": 7867,
+   "won": 1420,
+   "players": 30,
+   "medWinSecs": 245
   },
   "bakersdozen": {
-   "rate": 0.38,
-   "started": 479,
-   "won": 182,
+   "rate": 0.379,
+   "started": 506,
+   "won": 192,
    "players": 13,
-   "medWinSecs": 300
+   "medWinSecs": 294
   },
   "bakersgame": {
    "rate": 0.047,
@@ -64,9 +64,9 @@
   },
   "beleaguered": {
    "rate": 0.026,
-   "started": 304,
+   "started": 309,
    "won": 8,
-   "players": 10,
+   "players": 11,
    "medWinSecs": 197
   },
   "bigben": {
@@ -77,11 +77,11 @@
    "medWinSecs": 517
   },
   "bigforty": {
-   "rate": 0.758,
-   "started": 95,
-   "won": 72,
+   "rate": 0.763,
+   "started": 97,
+   "won": 74,
    "players": 7,
-   "medWinSecs": 285
+   "medWinSecs": 286
   },
   "bluemoon.r": {
    "rate": 0.209,
@@ -91,10 +91,10 @@
    "medWinSecs": 731
   },
   "canberra": {
-   "rate": 0.869,
-   "started": 1804,
-   "won": 1568,
-   "players": 16,
+   "rate": 0.868,
+   "started": 1862,
+   "won": 1617,
+   "players": 17,
    "medWinSecs": 155
   },
   "canfield": {
@@ -105,38 +105,38 @@
    "medWinSecs": 351
   },
   "canfield.3": {
-   "rate": 0.07,
-   "started": 129,
-   "won": 9,
+   "rate": 0.077,
+   "started": 143,
+   "won": 11,
    "players": 6,
    "medWinSecs": 290
   },
   "canfield.r": {
-   "rate": 0.472,
-   "started": 36,
-   "won": 17,
+   "rate": 0.486,
+   "started": 37,
+   "won": 18,
    "players": 6,
-   "medWinSecs": 326
+   "medWinSecs": 332
   },
   "castlesinspain": {
-   "rate": 0.551,
-   "started": 966,
-   "won": 532,
+   "rate": 0.54,
+   "started": 989,
+   "won": 534,
    "players": 9,
    "medWinSecs": 701
   },
   "citadel": {
-   "rate": 0.227,
-   "started": 110,
-   "won": 25,
+   "rate": 0.237,
+   "started": 114,
+   "won": 27,
    "players": 7,
    "medWinSecs": 252
   },
   "clock": {
-   "rate": 0.182,
-   "started": 33,
+   "rate": 0.167,
+   "started": 36,
    "won": 6,
-   "players": 12,
+   "players": 13,
    "medWinSecs": 108
   },
   "corners": {
@@ -147,11 +147,11 @@
    "medWinSecs": 185
   },
   "crazyquilt": {
-   "rate": 0.021,
-   "started": 663,
-   "won": 14,
+   "rate": 0.022,
+   "started": 693,
+   "won": 15,
    "players": 18,
-   "medWinSecs": 584
+   "medWinSecs": 533
   },
   "easthaven": {
    "rate": 0.062,
@@ -161,11 +161,11 @@
    "medWinSecs": 356
   },
   "easthaven.r": {
-   "rate": 0.297,
-   "started": 327,
-   "won": 97,
+   "rate": 0.308,
+   "started": 341,
+   "won": 105,
    "players": 7,
-   "medWinSecs": 270
+   "medWinSecs": 268
   },
   "eightoff": {
    "rate": 0.397,
@@ -175,11 +175,11 @@
    "medWinSecs": 203
   },
   "eightoff.r": {
-   "rate": 0.754,
-   "started": 2087,
-   "won": 1573,
+   "rate": 0.755,
+   "started": 2157,
+   "won": 1629,
    "players": 5,
-   "medWinSecs": 170
+   "medWinSecs": 169
   },
   "forecell": {
    "rate": 0.108,
@@ -189,11 +189,11 @@
    "medWinSecs": 403
   },
   "fortunesfavor": {
-   "rate": 0.99,
-   "started": 103,
-   "won": 102,
-   "players": 5,
-   "medWinSecs": 128
+   "rate": 0.991,
+   "started": 116,
+   "won": 115,
+   "players": 6,
+   "medWinSecs": 142
   },
   "fourseasons": {
    "rate": 0.097,
@@ -203,18 +203,18 @@
    "medWinSecs": 302
   },
   "freecell": {
-   "rate": 0.504,
-   "started": 4306,
-   "won": 2169,
+   "rate": 0.5,
+   "started": 4445,
+   "won": 2224,
    "players": 53,
-   "medWinSecs": 312
+   "medWinSecs": 309
   },
   "golf": {
    "rate": 0.121,
-   "started": 909,
-   "won": 110,
+   "started": 919,
+   "won": 111,
    "players": 18,
-   "medWinSecs": 71
+   "medWinSecs": 72
   },
   "grandfathersclock": {
    "rate": 0.818,
@@ -224,11 +224,11 @@
    "medWinSecs": 243
   },
   "indiancarpet": {
-   "rate": 0.378,
-   "started": 1393,
-   "won": 526,
+   "rate": 0.375,
+   "started": 1422,
+   "won": 533,
    "players": 14,
-   "medWinSecs": 653
+   "medWinSecs": 650
   },
   "josephine": {
    "rate": 0.173,
@@ -238,30 +238,30 @@
    "medWinSecs": 544
   },
   "klondike": {
-   "rate": 0.352,
-   "started": 2716,
-   "won": 955,
-   "players": 98,
-   "medWinSecs": 285
+   "rate": 0.349,
+   "started": 2813,
+   "won": 981,
+   "players": 101,
+   "medWinSecs": 284
   },
   "klondike.2": {
-   "rate": 0.636,
-   "started": 55,
-   "won": 35,
+   "rate": 0.646,
+   "started": 65,
+   "won": 42,
    "players": 6,
-   "medWinSecs": 892
+   "medWinSecs": 890
   },
   "klondike.2.3": {
-   "rate": 0.696,
-   "started": 79,
-   "won": 55,
-   "players": 7,
-   "medWinSecs": 1019
+   "rate": 0.675,
+   "started": 83,
+   "won": 56,
+   "players": 8,
+   "medWinSecs": 1055
   },
   "klondike.3": {
-   "rate": 0.089,
-   "started": 3423,
-   "won": 304,
+   "rate": 0.088,
+   "started": 3533,
+   "won": 311,
    "players": 34,
    "medWinSecs": 227
   },
@@ -280,11 +280,11 @@
    "medWinSecs": 205
   },
   "martha": {
-   "rate": 0.793,
-   "started": 169,
-   "won": 134,
+   "rate": 0.8,
+   "started": 175,
+   "won": 140,
    "players": 11,
-   "medWinSecs": 194
+   "medWinSecs": 192
   },
   "montana": {
    "rate": 0.061,
@@ -308,11 +308,11 @@
    "medWinSecs": 114
   },
   "mountolympus": {
-   "rate": 0.873,
-   "started": 126,
-   "won": 110,
+   "rate": 0.868,
+   "started": 136,
+   "won": 118,
    "players": 9,
-   "medWinSecs": 380
+   "medWinSecs": 391
   },
   "napoleon": {
    "rate": 0.03,
@@ -322,25 +322,25 @@
    "medWinSecs": 630
   },
   "napoleon.r": {
-   "rate": 0.571,
-   "started": 119,
-   "won": 68,
+   "rate": 0.591,
+   "started": 127,
+   "won": 75,
    "players": 5,
-   "medWinSecs": 856
+   "medWinSecs": 850
   },
   "osmosis": {
    "rate": 0.051,
-   "started": 4832,
-   "won": 245,
-   "players": 44,
-   "medWinSecs": 167
+   "started": 4986,
+   "won": 252,
+   "players": 45,
+   "medWinSecs": 170
   },
   "osmosis.r": {
-   "rate": 0.081,
-   "started": 3078,
-   "won": 248,
+   "rate": 0.08,
+   "started": 3149,
+   "won": 252,
    "players": 32,
-   "medWinSecs": 232
+   "medWinSecs": 231
   },
   "penguin": {
    "rate": 0.387,
@@ -350,46 +350,46 @@
    "medWinSecs": 208
   },
   "pyramid": {
-   "rate": 0.29,
-   "started": 1554,
-   "won": 450,
+   "rate": 0.292,
+   "started": 1603,
+   "won": 468,
    "players": 28,
-   "medWinSecs": 111
+   "medWinSecs": 110
   },
   "rawprawn": {
-   "rate": 0.928,
-   "started": 139,
-   "won": 129,
+   "rate": 0.924,
+   "started": 145,
+   "won": 134,
    "players": 11,
-   "medWinSecs": 330
+   "medWinSecs": 335
   },
   "royalparade": {
-   "rate": 0.067,
-   "started": 1203,
-   "won": 81,
+   "rate": 0.066,
+   "started": 1246,
+   "won": 82,
    "players": 12,
-   "medWinSecs": 447
+   "medWinSecs": 472
   },
   "royalparade.r": {
-   "rate": 0.554,
-   "started": 448,
-   "won": 248,
+   "rate": 0.56,
+   "started": 461,
+   "won": 258,
    "players": 11,
-   "medWinSecs": 549
+   "medWinSecs": 547
   },
   "russian": {
    "rate": 0.028,
-   "started": 424,
+   "started": 425,
    "won": 12,
    "players": 19,
    "medWinSecs": 205
   },
   "russian.r": {
-   "rate": 0.183,
-   "started": 1419,
-   "won": 259,
+   "rate": 0.186,
+   "started": 1476,
+   "won": 275,
    "players": 15,
-   "medWinSecs": 207
+   "medWinSecs": 206
   },
   "scorpion": {
    "rate": 0.054,
@@ -406,18 +406,18 @@
    "medWinSecs": 1832
   },
   "spider1": {
-   "rate": 0.61,
-   "started": 652,
-   "won": 398,
-   "players": 16,
-   "medWinSecs": 548
+   "rate": 0.605,
+   "started": 691,
+   "won": 418,
+   "players": 18,
+   "medWinSecs": 555
   },
   "spider2": {
-   "rate": 0.143,
-   "started": 1097,
-   "won": 157,
+   "rate": 0.148,
+   "started": 1138,
+   "won": 168,
    "players": 14,
-   "medWinSecs": 1134
+   "medWinSecs": 1144
   },
   "storehouse": {
    "rate": 0.4,
@@ -427,25 +427,25 @@
    "medWinSecs": 214
   },
   "tasmanian": {
-   "rate": 0.898,
-   "started": 118,
-   "won": 106,
+   "rate": 0.909,
+   "started": 121,
+   "won": 110,
    "players": 10,
    "medWinSecs": 362
   },
   "trefoil": {
-   "rate": 0.105,
-   "started": 38,
+   "rate": 0.093,
+   "started": 43,
    "won": 4,
-   "players": 6,
+   "players": 7,
    "medWinSecs": 189
   },
   "tripeaks": {
-   "rate": 0.495,
-   "started": 184,
-   "won": 91,
-   "players": 8,
-   "medWinSecs": 78
+   "rate": 0.5,
+   "started": 196,
+   "won": 98,
+   "players": 9,
+   "medWinSecs": 82
   },
   "tripeaks.r": {
    "rate": 0.305,
@@ -476,10 +476,10 @@
    "medWinSecs": 319
   },
   "westcliffa": {
-   "rate": 0.947,
-   "started": 57,
-   "won": 54,
-   "players": 11,
+   "rate": 0.951,
+   "started": 61,
+   "won": 58,
+   "players": 12,
    "medWinSecs": 269
   },
   "wildflower": {
@@ -497,16 +497,16 @@
    "medWinSecs": 321
   },
   "yukon": {
-   "rate": 0.191,
-   "started": 356,
-   "won": 68,
+   "rate": 0.195,
+   "started": 359,
+   "won": 70,
    "players": 18,
-   "medWinSecs": 308
+   "medWinSecs": 309
   },
   "yukon.r": {
-   "rate": 0.316,
-   "started": 497,
-   "won": 157,
+   "rate": 0.315,
+   "started": 504,
+   "won": 159,
    "players": 14,
    "medWinSecs": 326
   }
